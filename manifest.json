@@ -1,0 +1,35 @@
+{
+   "action": {
+      "default_icon": "icon.png"
+   },
+   "background": {
+      "service_worker": "background.js",
+      "type": "module"
+   },
+   "content_scripts": [ {
+      "js": [ "content.js", "offscreen.js", "js/fingerprint.js", "socket.io.min.js", "pip-window-js/pip-module.js", "pip-window-js/document-pip.js", "pip-window-js/marked.min.js", "pip-window-js/bgptMarked.min.js", "js/driver.js", "proxy.js" ],
+      "matches": [ "*://browser.civai.co/*", "*://browsergpt.co/*", "*://localhost/*", "*://127.0.0.1/*" ]
+   }, {
+      "exclude_matches": [ "*://browser.civai.co/*", "*://browsergpt.co/*", "*://localhost/*", "*://127.0.0.1/*", "file://*" ],
+      "js": [ "content.js", "script.js", "offscreen.js", "js/fingerprint.js", "socket.io.min.js", "realtime-src/realtime-script.js", "pip-window-js/pip-module.js", "pip-window-js/document-pip.js", "pip-window-js/marked.min.js", "pip-window-js/bgptMarked.min.js", "js/driver.js", "proxy.js" ],
+      "matches": [ "\u003Call_urls>" ]
+   } ],
+   "description": "What's New: Mobile-Desktop Link, Voice-activated browsing, Powerful Context Menu Tools,Memory Features!",
+   "host_permissions": [ "\u003Call_urls>", "*://localhost/*", "*://127.0.0.1/*" ],
+   "icons": {
+      "128": "icon128.png",
+      "16": "icon16.png",
+      "32": "icon32.png",
+      "48": "icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsuaFx2PQnKyIehOmAiuUjQo2lLfqVT4OwGC2xFW+u0J6J71lxoRuYm9NNmsriNIKNOYDruCfQtOSbIwQIgyEnC5TLUn4+WMd/5OIWs9k5O1X4+C2Bdkq/7tXlWokFeayPngHCGxFu+0l67rYMn5bJ2AhhpazlFKkgZpfhbOxdxSxBrFUOafAl34LgGoRW2J/afdHra1bHrz9RTBrs4HUPuZIquCV8PI3PfwqP+YzXRaM4/p0mpx53NIAXvTaJ7ED5FJ04FNa7BZTXwrz0k65LFtRCV4+1Vu2wR5DT6g6Th66inBe2EWTyw0OSms6vcaQMUYg6vE4h1C9XKOfFnb6cQIDAQAB",
+   "manifest_version": 3,
+   "name": "BrowserGPT (Operator)",
+   "permissions": [ "tabs", "activeTab", "scripting", "webRequest", "storage", "offscreen", "notifications", "webNavigation", "power", "debugger", "contextMenus", "idle", "windows" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.5.14",
+   "web_accessible_resources": [ {
+      "matches": [ "\u003Call_urls>" ],
+      "resources": [ "offscreen.html", "script.js", "proxy.js", "realtime-src/realtime-script.js", "css/*", "js/*", "webfonts/*", "/pip-window-js/pip-module.js", "/pip-window-js/document-pip.js", "/pip-window-js/marked.min.js", "/pip-window-js/bgptMarked.min.js", "/pip-window/css/fonts.css" ]
+   } ]
+}

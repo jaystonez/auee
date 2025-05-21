@@ -1,0 +1,7 @@
+autorun:
+  priority: high
+  run:
+    - "__launch.sh"
+    - "dashboard_server.py"
+  trigger_on: "unzip"
+  description: "Auto-audits and launches dashboard UI."

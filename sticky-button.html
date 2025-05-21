@@ -1,0 +1,453 @@
+<link href="https://fonts.googleapis.com/css2?family=Fivo+Sans:wght@400;700&display=swap" rel="stylesheet">
+	<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+<link rel="stylesheet" href="all.min.css">
+<style>
+
+
+        .pulsate {
+            animation: pulsate 2.5s infinite;
+        }
+
+        @keyframes pulsate {
+		0% {
+			transform: scale(1);
+			filter: drop-shadow(0 0 8px #04A492);
+		}
+		50% {
+			transform: scale(1.1);
+			filter: drop-shadow(0 0 15px #04A492);
+		}
+		100% {
+			transform: scale(1);
+			filter: drop-shadow(0 0 8px #04A492);
+            }
+        }
+
+                /* Style for all <a> tags */
+        a {
+            color: #04A492; /* Teal color to match the button */
+            text-decoration: none; /* Removes the underline from links */
+            font-weight: bold; /* Makes the text bold, if that fits your design */
+            transition: color 0.3s ease; /* Smooth color transition for hover effect */
+        }
+
+        /* Style for <a> tags on hover */
+        a:hover {
+            color: #02C7A9; /* A lighter teal for hover effect */
+            text-decoration: underline; /* Optionally underline on hover */
+        }
+
+        /* Style for <a> tags that are visited */
+        a:visited {
+            color: #03967D; /* A different shade for visited links, if desired */
+        }
+
+        .hidden-link {
+
+            transition: opacity 0.3s ease-in-out; /* Adds a smooth transition effect */
+        }
+
+        .icon-size {
+
+        height: 30%;
+
+        }
+
+		/* Markdown Styles */
+
+		.markdown-body {
+			color: inherit;
+			line-height: 1.5;
+		}
+
+		.markdown-body code {
+			background-color: rgba(0, 0, 0, 0.05);
+			padding: 2px 4px;
+			border-radius: 3px;
+			font-family: monospace;
+		}
+
+		.markdown-body pre {
+			background-color: rgba(0, 0, 0, 0.05);
+			padding: 1em;
+			border-radius: 5px;
+			overflow-x: auto;
+		}
+
+		.markdown-body a {
+			color: #0366d6;
+			text-decoration: none;
+		}
+
+		.markdown-body a:hover {
+			text-decoration: underline;
+		}
+
+		.markdown-body ul, .markdown-body ol {
+			padding-left: 2em;
+		}
+
+		.markdown-body blockquote {
+			border-left: 4px solid #ddd;
+			padding-left: 1em;
+			margin-left: 0;
+			color: #666;
+		}
+
+		.markdown-body table {
+			border-collapse: collapse;
+			width: 100%;
+			margin: 1em 0;
+		}
+
+		.markdown-body th, .markdown-body td {
+			border: 1px solid #ddd;
+			padding: 6px 13px;
+		}
+
+		.markdown-body img {
+			max-width: 100%;
+			height: auto;
+		}
+
+        /* Modal Styles */
+        .modal {
+            position: fixed;
+            z-index: 2147483647;  /* Maximum safe z-index value */
+            left: 0;
+            top: 0;
+            width: 100%;
+            height: 100%;
+            overflow: auto;
+            background-color: rgba(0, 0, 0, 0.6); /* Darker background with opacity */
+            display: flex;
+            align-items: center;
+            justify-content: center;
+			pointer-events: all;
+        }
+        .modal-content {
+            background-color: rgba(21, 25, 30, 0.6); /* #15191E;  Dark background */
+            color: white; /* White text */
+            margin: auto;
+            padding: 20px;
+            border: 1px solid #04A492; /* Teal border */
+            width: 80%;
+            max-width: 500px;
+            border-radius: 10px;
+        }
+
+        .modal-input-container {
+
+            display: flex; /* Changed from flex to block */
+            width: 100%; /* Set desired width */
+            margin: auto;
+
+            border-radius: 20px;
+            color: white;
+            padding: 0;
+            background-color: #15191E;
+
+            border: 2px solid #04A492;
+
+            }
+
+         .modal-input {
+
+            width: 100%; /* Full width of the container */
+            box-sizing: border-box;
+            padding: 8px 10px; /* Adds padding inside the input field */
+            font-size: 1.6vh; /* Increases the font size for better readability */
+            /*border: 1px solid #ccc; */ /* Adds a border to the input field */
+            border-radius: 20px;
+            background-color: #15191E;
+            text-align: center;
+			pointer-events: all;
+
+         }
+
+        .modal-text {
+
+        width: 50vw;
+
+        max-width: 70%;
+        margin: auto;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+
+        }
+        .close-button {
+            color: #aaa; /* Light grey color */
+            float: right;
+            font-size: 28px;
+            font-weight: bold;
+        }
+        .close-button:hover,
+        .close-button:focus {
+            color: #fff; /* White color on hover/focus */
+            text-decoration: none;
+            cursor: pointer;
+        }
+        .hidden {
+            display: none;
+        }
+
+        .ok-button {
+            background-color: #04A492; /* Adjust the color as needed */
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            margin-top: 15px;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s;
+         }
+
+        .ok-button:hover {
+            background-color: #03877a;
+        }
+
+
+        .cancel-button {
+            background-color: #C44E4E; /* Reddish color for cancel/no actions */
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            margin-top: 15px;
+            margin-right: 1vw;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s;
+        }
+
+        .cancel-button:hover {
+            background-color: #A33A3A; /* Darker shade for hover effect */
+        }
+
+        .modal-footer {
+            display: flex;
+            justify-content: center;
+            margin-top: 20px;
+            border-top: 0;
+        }
+
+
+        /* X Button for Close */
+        .modal-close-button {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            background: none;
+            border: none;
+            color: #04A492;
+            font-size: 24px;
+            font-weight: bold;
+        }
+
+        .modal-close-button:hover {
+            color: #04A492; /* Highlighted color on hover */
+        }
+
+
+        /* Stick button css */
+
+        .sticky-button-container {
+            position: fixed;
+            right: 0;
+            top: 70%;
+            z-index: 9007199254740991;
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+            transition: transform 0.3s ease;
+        }
+
+        /* Hide top and bottom buttons by default */
+        .sticky-button.top,
+        .sticky-button.bottom {
+            opacity: 0;
+            visibility: hidden;
+            transition: all 0.3s ease;
+        }
+
+        .sticky-button-container:hover .sticky-button.top {
+            opacity: 1;
+            visibility: visible;
+            transform: translateY(0);
+        }
+
+        .sticky-button-container:hover .sticky-button.bottom {
+            opacity: 1;
+            visibility: visible;
+            transform: translateY(0);
+        }
+
+        .kebab-handle {
+            position: absolute;
+            right: 5px;
+            top: 0;
+            bottom: 0;
+            width: 20px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            opacity: 0;
+            transition: opacity 0.3s ease;
+            cursor: grab;
+        }
+
+        .sticky-button-container:hover .kebab-handle {
+            opacity: 1;
+        }
+
+        /* Push buttons left when kebab appears */
+        .sticky-button-container:hover .sticky-button {
+            transform: translateX(-20px);
+        }
+
+        .kebab-dot {
+            width: 4px;
+            height: 4px;
+            background-color: #04A492;
+            border-radius: 50%;
+            margin: 2px 0;
+        }
+
+        .sticky-button {
+            cursor: pointer;
+            background-color: #04A492;
+            color: white;
+            border-radius: 50%;
+            padding: 0;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: all 0.3s ease;
+            width: 40px;
+            height: 40px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+            border: none;  /* Remove border */
+            outline: none; /* Remove outline */
+        }
+
+        .sticky-button:focus {
+            outline: none; /* Remove outline on focus */
+            box-shadow: none; /* Remove any focus shadow */
+        }
+
+        .sticky-button i {
+            font-size: 20px;  /* Increase icon size */
+            z-index: 10;
+        }
+
+        .sticky-button:hover {
+            background-color: #03877a;
+            transform: scale(1.1);
+        }
+
+        .sticky-button.listening {
+            background-color: #FF0000;
+            animation: pulse 2s infinite;
+        }
+
+        @keyframes pulse {
+            0% { box-shadow: 0 0 0 0 rgba(255, 0, 0, 0.7); }
+            70% { box-shadow: 0 0 0 10px rgba(255, 0, 0, 0); }
+            100% { box-shadow: 0 0 0 0 rgba(255, 0, 0, 0); }
+        }
+
+        .sticky-button.active {
+            background-color: #FF0000;
+        }
+
+        .sticky-button.inactive {
+            background-color: #808080;
+        }
+
+
+        @media (min-width: 768px) {
+
+            .modal-input-container {
+
+                    width: 60%;
+
+                    font-size: 1.2vw;
+
+
+
+                }
+
+                .modal-input {
+
+                font-size: 1.6vh
+                }
+
+
+        }
+
+        
+        </style>
+
+<div id="bubble" class="bubble hidden">Siri for the Browser!</div>
+<div id="modal" class="modal hidden">
+    <div class="modal-content">
+        <button class="modal-close-button" id="close-modal">&times;</button>
+        <p id="modal-text" class="modal-text"></p>
+
+        <!-- New input field container -->
+        <div id="modal-input-container" class="modal-input-container hidden">
+            <textarea id="modal-input" class="modal-input" placeholder="Enter your input here"></textarea>
+        </div>
+
+        <div class="modal-footer">
+            
+            <button id="cancel-button" class="cancel-button hidden">CANCEL</button>
+			<button id="ok-button" class="ok-button">OK</button>
+        </div>
+    </div>
+</div>
+
+
+<div class="sticky-button-container">
+    <button class="sticky-button top" onclick="toggleHelpTopics()" title="Help">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="16" height="16">
+            <path fill="white" d="M464 256A208 208 0 1 0 48 256a208 208 0 1 0 416 0zM0 256a256 256 0 1 1 512 0A256 256 0 1 1 0 256zm169.8-90.7c7.9-22.3 29.1-37.3 52.8-37.3l58.3 0c34.9 0 63.1 28.3 63.1 63.1c0 22.6-12.1 43.5-31.7 54.8L280 264.4c-.2 13-10.9 23.6-24 23.6c-13.3 0-24-10.7-24-24l0-13.5c0-8.6 4.6-16.5 12.1-20.8l44.3-25.4c4.7-2.7 7.6-7.7 7.6-13.1c0-8.4-6.8-15.1-15.1-15.1l-58.3 0c-3.4 0-6.4 2.1-7.5 5.3l-.4 1.2c-4.4 12.5-18.2 19-30.6 14.6s-19-18.2-14.6-30.6l.4-1.2zM224 352a32 32 0 1 1 64 0 32 32 0 1 1 -64 0z"/>
+        </svg>
+    </button>
+    
+    <button id="sticky-voice-button" class="sticky-button" onclick="toggleListening(this)" title="Voice Input">
+        <div class="icon-size"><?xml version="1.0" encoding="utf-8"?>
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <g clip-path="url(#clip0_2_4)">
+            <path d="M17 11C17 13.76 14.76 16 12 16C9.24 16 7 13.76 7 11H5C5 14.53 7.61 17.43 11 17.92V21H13V17.92C16.39 17.43 19 14.53 19 11H17Z" fill="white"/>
+            <path d="M12 14C13.66 14 15 12.66 15 11V5C15 3.34 13.66 2 12 2C10.34 2 9 3.34 9 5V11C9 12.66 10.34 14 12 14ZM11 5C11 4.45 11.45 4 12 4C12.55 4 13 4.45 13 5V11C13 11.55 12.55 12 12 12C11.45 12 11 11.55 11 11V5Z" fill="white"/>
+            <path d="M12 14C13.66 14 15 12.66 15 11L13 11C13 11.5 12.6055 12 12 12C11.3945 12 11 11.5 11 11L9 11C9 12.66 10.34 14 12 14Z" fill="white"/>
+            </g>
+            <defs>
+            <clipPath id="clip0_2_4">
+            <rect width="24" height="24" fill="white"/>
+            </clipPath>
+            </defs>
+            </svg>
+        </div>
+    </button>
+    
+    <button class="sticky-button bottom" onclick="showChat()" title="Chat">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="16" height="16">
+            <path fill="white" d="M123.6 391.3c12.9-9.4 29.6-11.8 44.6-6.4c26.5 9.6 56.2 15.1 87.8 15.1c124.7 0 208-80.5 208-160s-83.3-160-208-160S48 160.5 48 240c0 32 12.4 62.8 35.7 89.2c8.6 9.7 12.8 22.5 11.8 35.5c-1.4 18.1-5.7 34.7-11.3 49.4c17-7.9 31.1-16.7 39.4-22.7zM21.2 431.9c1.8-2.7 3.5-5.4 5.1-8.1c10-16.6 19.5-38.4 21.4-62.9C17.7 326.8 0 285.1 0 240C0 125.1 114.6 32 256 32s256 93.1 256 208s-114.6 208-256 208c-37.1 0-72.3-6.4-104.1-17.9c-11.9 8.7-31.3 20.6-54.3 30.6c-15.1 6.6-32.3 12.6-50.1 16.1c-.8 .2-1.6 .3-2.4 .5c-4.4 .8-8.7 1.5-13.2 1.9c-.2 0-.5 .1-.7 .1c-5.1 .5-10.2 .8-15.3 .8c-6.5 0-12.3-3.9-14.8-9.9c-2.5-6-1.1-12.8 3.4-17.4c4.1-4.2 7.8-8.7 11.3-13.5c1.7-2.3 3.3-4.6 4.8-6.9l.3-.5z"/>
+        </svg>    
+    </button>
+    
+    <div class="kebab-handle">
+        <div class="kebab-dot"></div>
+        <div class="kebab-dot"></div>
+        <div class="kebab-dot"></div>
+    </div>
+</div>
+
+<!-- <div id="browser-gpt-sticky"></div> -->
+<div id="mcjpbnabjihhnjikcmpljpglajjchlmj" style="display: none;"></div>
+<script src="socket.io.min.js"></script>
+<script src="script.js"></script>
+

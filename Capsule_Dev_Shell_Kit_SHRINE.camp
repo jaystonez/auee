@@ -1,0 +1,54 @@
+# Create the required shrine ignition files and repackage the .camp
+import os
+import zipfile
+
+camp_dir = "/mnt/data/shrine_capsule_temp"
+camp_src = "/mnt/data/Capsule_Dev_Shell_Kit.zip"
+camp_final = "/mnt/data/Capsule_Dev_Shell_Kit_SHRINE.camp"
+
+# Prepare directory
+os.makedirs(camp_dir, exist_ok=True)
+
+# Unzip current capsule contents
+with zipfile.ZipFile(camp_src, 'r') as zip_ref:
+    zip_ref.extractall(camp_dir)
+
+# Write __launch.sh
+with open(os.path.join(camp_dir, "__launch.sh"), "w") as f:
+    f.write("""#!/bin/bash
+echo "⚙️ Booting Capsule Dev Shell Kit..."
+chmod +x reflex_capsule_auditor.py
+python3 reflex_capsule_auditor.py --audit-only
+if [ -f dashboard_server.py ]; then
+    python3 dashboard_server.py &
+fi
+""")
+
+# Write __launch.bat
+with open(os.path.join(camp_dir, "__launch.bat"), "w") as f:
+    f.write("""@echo off
+echo Launching Capsule Dev Shell Kit...
+python reflex_capsule_auditor.py --audit-only
+start dashboard_server.py
+""")
+
+# Write autorun.yaml
+with open(os.path.join(camp_dir, "autorun.yaml"), "w") as f:
+    f.write("""autorun:
+  priority: high
+  run:
+    - "__launch.sh"
+    - "dashboard_server.py"
+  trigger_on: "unzip"
+  description: "Auto-audits and launches dashboard UI."
+""")
+
+# Repack into new .camp
+with zipfile.ZipFile(camp_final, 'w', zipfile.ZIP_DEFLATED) as zipf:
+    for root, _, files in os.walk(camp_dir):
+        for file in files:
+            full_path = os.path.join(root, file)
+            arcname = os.path.relpath(full_path, start=camp_dir)
+            zipf.write(full_path, arcname=arcname)
+
+camp_final

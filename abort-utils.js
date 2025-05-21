@@ -1,0 +1,1 @@
+(()=>{"use strict";new AbortController;globalThis.fetch,new Set})();

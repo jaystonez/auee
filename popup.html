@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Nova Automation</title>
+
+</head>
+<body>
+    <div>
+        <label for="urlInput">URL to Browse:</label><br>
+        <input type="text" id="urlInput" value="https://youtube.com">
+    </div>
+    <div>
+        <label for="promptInput">Prompt:</label><br>
+        <textarea id="promptInput" style="width: 400px; height: 60px;">
+
+</textarea>
+        <!--- open 'masego yamz' video on youtube, play the video -->
+        <!-- Post a tweet saying 'Hey guys, I'm the new GPT powered social media manager and I mainly post cool tweets and respond to DMs' in the what's happening section -->
+
+ </div>
+    <div>
+        <label for="promptSelect">Or choose a preset prompt:</label><br>
+        <select id="promptSelect">
+            <option value="">--Select a prompt--</option>
+            <option value="Ask Chatgpt to list the latest AI advancements in 2023">Ask Chatgpt to list the latest AI advancements in 2023</option>
+            <option value="Search for latest tech news today">Search for latest tech news today</option>
+            <option value="Search for latest tech news today using the textarea with class name glfyf as input field for the query">Search for latest tech news today using the textarea with class name glfyf as input field for the query</option>
+            <!-- Add more options as needed -->
+        </select>
+    </div>
+    <button id="newTab">New Tab</button>
+    <button id="currentTab">Current Tab</button>
+    <script src="popup.js"></script>
+</body>
+</html>

@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>🧠 Capsule Dashboard</title>
+  <style>
+    body { font-family: sans-serif; background: #111; color: #eee; padding: 2em; }
+    h1 { color: #0ff; }
+    pre { background: #222; padding: 1em; overflow-x: auto; }
+    .capsule { border: 1px solid #555; padding: 1em; margin: 1em 0; background: #1a1a1a; }
+  </style>
+</head>
+<body>
+  <h1>📦 Capsule Explorer</h1>
+  <input type="file" id="fileInput" multiple />
+  <div id="output"></div>
+
+  <script>
+    document.getElementById('fileInput').addEventListener('change', async function(e) {
+      const files = Array.from(e.target.files);
+      const output = document.getElementById('output');
+      output.innerHTML = "";
+
+      for (const file of files) {
+        const reader = new FileReader();
+        reader.onload = function(ev) {
+          const content = ev.target.result;
+          let json, parsed = false;
+          try {
+            json = JSON.parse(content);
+            parsed = true;
+          } catch {}
+          const div = document.createElement("div");
+          div.className = "capsule";
+          div.innerHTML = `<h2>${file.name}</h2><pre>${parsed ? JSON.stringify(json, null, 2) : content}</pre>`;
+          output.appendChild(div);
+        };
+        reader.readAsText(file);
+      }
+    });
+  </script>
+</body>
+</html>

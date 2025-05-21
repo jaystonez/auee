@@ -1,0 +1,54 @@
+# Generate the browser-based one-click capsule launcher HTML
+browser_launcher_path = "/mnt/data/Capsule_Shrine_OneClick_Launcher.html"
+
+html_content = """
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Capsule Shrine One-Click Launcher</title>
+  <style>
+    body {
+      background: #0b0f1a;
+      color: #00ffcc;
+      font-family: 'Courier New', Courier, monospace;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+    }
+    button {
+      background: #00ffcc;
+      color: #0b0f1a;
+      border: none;
+      padding: 1rem 2rem;
+      font-size: 1.25rem;
+      border-radius: 0.5rem;
+      cursor: pointer;
+      transition: 0.2s ease;
+    }
+    button:hover {
+      background: #00ddb3;
+    }
+    .info {
+      margin-top: 2rem;
+      color: #888;
+      font-size: 0.85rem;
+    }
+  </style>
+</head>
+<body>
+  <h1>🧠 Launch Capsule Dev Shell Kit</h1>
+  <button onclick="window.location.href='capsule://launch/Capsule_Dev_Shell_Kit_SHRINE'">Launch Now</button>
+  <div class="info">
+    Requires Capsule protocol handler to be registered locally.
+  </div>
+</body>
+</html>
+"""
+
+with open(browser_launcher_path, "w") as f:
+    f.write(html_content)
+
+browser_launcher_path
