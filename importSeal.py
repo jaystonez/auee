@@ -1,6 +1,8 @@
 import hashlib
 import zipfile
 import qrcode
+import shutil
+import os
 from datetime import datetime
 
 # === Define paths ===
