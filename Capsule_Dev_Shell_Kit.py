@@ -18,4 +18,4 @@ with zipfile.ZipFile(output_zip, "w", zipfile.ZIP_DEFLATED) as zipf:
         if os.path.exists(file_path):
             zipf.write(file_path, arcname=file)
 
-output_zip
+print(output_zip)

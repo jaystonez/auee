@@ -125,4 +125,4 @@ with ZipFile(ritual_zip_path, "w") as zipf:
     zipf.write(os.path.join(ritual_dir, "trigger_rules.yaml"), arcname="trigger_rules.yaml")
     zipf.write(os.path.join(ritual_dir, "reflex_overlay.js"), arcname="reflex_overlay.js")
 
-ritual_zip_path
+print(ritual_zip_path)

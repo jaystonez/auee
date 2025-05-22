@@ -111,4 +111,4 @@ with ZipFile(enhanced_capsule_path, "w") as zipf:
             arcname = os.path.relpath(full_path, start=capsule_dir)
             zipf.write(full_path, arcname=arcname)
 
-enhanced_capsule_path
+print(enhanced_capsule_path)

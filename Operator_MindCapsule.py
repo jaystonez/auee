@@ -100,4 +100,4 @@ with zipfile.ZipFile(camp_path, 'w', zipfile.ZIP_DEFLATED) as camp_zip:
             arcname = os.path.relpath(file_path, capsule_dir)
             camp_zip.write(file_path, arcname=arcname)
 
-camp_path
+print(camp_path)

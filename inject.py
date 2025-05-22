@@ -56,4 +56,4 @@ while True:
 with open(watch_path, "w") as f:
     f.write(watch_code)
 
-(broadcast_path, watch_path)
+print((broadcast_path, watch_path))

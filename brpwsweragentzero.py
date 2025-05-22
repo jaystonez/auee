@@ -83,4 +83,4 @@ with ZipFile(final_zip_path, "w") as zipf:
     for fname in os.listdir(final_dir):
         zipf.write(os.path.join(final_dir, fname), arcname=fname)
 
-final_zip_path
+print(final_zip_path)

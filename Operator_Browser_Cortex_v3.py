@@ -106,4 +106,4 @@ with ZipFile(camp_zip_path, "w") as zipf:
             arcname = os.path.relpath(full_path, start=camp_dir)
             zipf.write(full_path, arcname=arcname)
 
-camp_zip_path
+print(camp_zip_path)
