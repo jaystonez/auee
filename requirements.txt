@@ -9,3 +9,4 @@ pillow
 python-dotenv
 eventlet
 qrcode
+ace_tools

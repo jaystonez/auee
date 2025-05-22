@@ -210,8 +210,15 @@ if __name__ == "__main__":
     repaired, summary = scan_and_repair_capsules(dry_run=args.audit_only)
 
     if not args.audit_only:
-        import ace_tools as tools
-        tools.display_dataframe_to_user(name="Repaired Capsules", dataframe={"Repaired Capsules": repaired})
+        try:
+            import ace_tools as tools
+        except ImportError:
+            tools = None
+
+        if tools is not None:
+            tools.display_dataframe_to_user(name="Repaired Capsules", dataframe={"Repaired Capsules": repaired})
+        else:
+            print("ace_tools not installed; skipping DataFrame display")
 
         with open(os.path.join(AUDITOR_OUTPUT_DIR, "audit_summary_all.json"), "w") as f:
             json.dump(summary, f, indent=2)

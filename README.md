@@ -30,3 +30,8 @@ Key Python dependencies listed in `requirements.txt` include:
 - qrcode
 - pillow
 - python-dotenv
+- ace_tools (optional, provides a small UI for displaying DataFrames)
+
+`ace_tools` is used by the capsule auditor utilities to present audit results
+in a pop‑up window. If the package is missing, the scripts will simply print
+results to the console.
