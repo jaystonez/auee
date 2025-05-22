@@ -1,2 +1,11 @@
 pyyaml
 requests
+flask
+Flask-Cors
+Flask-SocketIO
+websockets
+openai
+pillow
+python-dotenv
+eventlet
+qrcode
