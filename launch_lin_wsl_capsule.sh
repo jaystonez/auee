@@ -3,7 +3,7 @@ set -e
 
 CAPSULE_DIR="$(pwd)"
 REQUIREMENTS="requirements.txt"
-VALIDATOR="reflex_capsule_auditor.py"
+VALIDATOR="capsule_auditor.py"
 PORTABLE_GPT="http://localhost:11434/gpt"
 
 echo ""

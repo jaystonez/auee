@@ -45,7 +45,7 @@ import datetime
 log = "reflect.log"
 with open(log, "a") as f:
     f.write(f"[{{datetime.datetime.utcnow().isoformat()}}Z] Reflecting on capsule state...\\n")
-    result = subprocess.run(["python3", "reflex_capsule_auditor.py", "--audit-only"], capture_output=True, text=True)
+    result = subprocess.run(["python3", "capsule_auditor.py", "--audit-only"], capture_output=True, text=True)
     f.write(result.stdout + "\\n")
 """
 with open(os.path.join(inject_dir, "reflect_on_launch.py"), "w") as f:

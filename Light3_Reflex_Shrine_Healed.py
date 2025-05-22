@@ -12,7 +12,7 @@ os.makedirs(capsules_dir, exist_ok=True)
 
 # Move core launch and audit tools to root of output bundle
 core_files = [
-    "reflex_capsule_auditor.py", "requirements.txt", "autorun.yaml",
+    "capsule_auditor.py", "requirements.txt", "autorun.yaml",
     "__launch.sh", "__launch.bat", "capsule_launcher.html", "reflex_debug_mode.bat",
     "Capsule_Shrine_OneClick_Launcher.html"
 ]

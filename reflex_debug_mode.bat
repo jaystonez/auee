@@ -4,7 +4,7 @@ setlocal enabledelayedexpansion
 set CAPSULE_DIR=%cd%
 set PYTHON_EXE=python
 set REQUIREMENTS=requirements.txt
-set VALIDATOR=reflex_capsule_auditor.py
+set VALIDATOR=capsule_auditor.py
 
 echo 🐛 Reflex Debug Mode: Verbose Audit Starting...
 echo ==============================================
