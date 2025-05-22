@@ -1,4 +1,4 @@
-import os, zipfile, json, shutil, yaml, hashlib, argparse
+import os, zipfile, json, shutil, yaml, hashlib
 from pathlib import Path
 
 AUDITOR_OUTPUT_DIR = "/mnt/data/audited_capsules"
@@ -201,17 +201,3 @@ def regenerate_reflect_yaml(reflect_path, root_dir, dry_run, score):
 def write_reflect_yaml(reflect_path, root_dir, dry_run, score):
     regenerate_reflect_yaml(reflect_path, root_dir, dry_run, score)
 
-# === CLI Entry ===
-if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description="Audit and repair AI capsules.")
-    parser.add_argument("--audit-only", action="store_true", help="Dry run: only audit, don't modify or repackage.")
-    args = parser.parse_args()
-
-    repaired, summary = scan_and_repair_capsules(dry_run=args.audit_only)
-
-    if not args.audit_only:
-        import ace_tools as tools
-        tools.display_dataframe_to_user(name="Repaired Capsules", dataframe={"Repaired Capsules": repaired})
-
-        with open(os.path.join(AUDITOR_OUTPUT_DIR, "audit_summary_all.json"), "w") as f:
-            json.dump(summary, f, indent=2)
