@@ -3,7 +3,7 @@ import zipfile
 
 output_zip = "/mnt/data/Capsule_Dev_Shell_Kit.zip"
 files_to_include = [
-    "reflex_capsule_auditor.py",
+    "capsule_auditor.py",
     "requirements.txt",
     "launch_capsule.sh",
     "reflex_debug_mode.bat",
