@@ -131,4 +131,4 @@ MimeType=x-scheme-handler/capsule;
 with open(protocol_kit_path, "w") as f:
     f.write(protocol_kit)
 
-(index_html_path, sigil_artifact_path, protocol_kit_path)
+print((index_html_path, sigil_artifact_path, protocol_kit_path))

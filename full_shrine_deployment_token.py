@@ -35,4 +35,4 @@ echo "✅ Capsule is now up to date."
 # Save QR
 qr_img.save(qr_path)
 
-(qr_path, desktop_stub_path, update_script_path)
+print((qr_path, desktop_stub_path, update_script_path))

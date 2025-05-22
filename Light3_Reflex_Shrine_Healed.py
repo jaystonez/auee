@@ -67,4 +67,4 @@ with zipfile.ZipFile(final_camp, 'w', zipfile.ZIP_DEFLATED) as zipf:
             arcname = os.path.relpath(full_path, start=output_dir)
             zipf.write(full_path, arcname=arcname)
 
-final_camp
+print(final_camp)

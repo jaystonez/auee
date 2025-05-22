@@ -101,4 +101,4 @@ with ZipFile(upgrade_zip_path, "w") as zipf:
     zipf.write(os.path.join(overlay_dir, "agent_console.html"), arcname="agent_console.html")
     zipf.write(os.path.join(overlay_dir, "reflex_overlay.js"), arcname="reflex_overlay.js")
 
-upgrade_zip_path
+print(upgrade_zip_path)

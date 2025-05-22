@@ -37,4 +37,4 @@ with zipfile.ZipFile(zip_path, "w") as zipf:
         zipf.write(os.path.join(working_dir, filename), arcname=filename)
     zipf.write(qr_img_path, arcname="operator_mesh_qr.png")
 
-zip_path
+print(zip_path)

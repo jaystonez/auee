@@ -60,4 +60,4 @@ with zipfile.ZipFile(camp_final, 'w', zipfile.ZIP_DEFLATED) as zipf:
             arcname = os.path.relpath(full_path, start=inject_dir)
             zipf.write(full_path, arcname=arcname)
 
-camp_final
+print(camp_final)

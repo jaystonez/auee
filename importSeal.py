@@ -84,4 +84,4 @@ with open(blessing_log, "a") as log:
     log.write(f"[{timestamp}] Light3_Reflex_Shrine_Healed.camp sealed by Agent 0. SHA256: {digest}\n")
 
 # Return paths to sealed output
-(camp_output, sig_output, readme_output, qr_output, blessing_log)
+print((camp_output, sig_output, readme_output, qr_output, blessing_log))

@@ -56,4 +56,4 @@ socket_zip_path = "/mnt/data/Reflex_Socket_Fused.zip"
 with ZipFile(socket_zip_path, "w") as zipf:
     zipf.write(socket_path, arcname="reflex_socket.py")
 
-socket_zip_path
+print(socket_zip_path)
