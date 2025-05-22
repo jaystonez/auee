@@ -1,0 +1,2014 @@
+[
+    {
+        "label": "qrcode",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "qrcode",
+        "description": "qrcode",
+        "detail": "qrcode",
+        "documentation": {}
+    },
+    {
+        "label": "Image",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "Image",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "ImageDraw",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "ImageFont",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "zipfile",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "zipfile",
+        "description": "zipfile",
+        "detail": "zipfile",
+        "documentation": {}
+    },
+    {
+        "label": "ZipFile",
+        "importPath": "zipfile",
+        "description": "zipfile",
+        "isExtraImport": true,
+        "detail": "zipfile",
+        "documentation": {}
+    },
+    {
+        "label": "ZipFile",
+        "importPath": "zipfile",
+        "description": "zipfile",
+        "isExtraImport": true,
+        "detail": "zipfile",
+        "documentation": {}
+    },
+    {
+        "label": "ZipFile",
+        "importPath": "zipfile",
+        "description": "zipfile",
+        "isExtraImport": true,
+        "detail": "zipfile",
+        "documentation": {}
+    },
+    {
+        "label": "ZipFile",
+        "importPath": "zipfile",
+        "description": "zipfile",
+        "isExtraImport": true,
+        "detail": "zipfile",
+        "documentation": {}
+    },
+    {
+        "label": "ZipFile",
+        "importPath": "zipfile",
+        "description": "zipfile",
+        "isExtraImport": true,
+        "detail": "zipfile",
+        "documentation": {}
+    },
+    {
+        "label": "ZipFile",
+        "importPath": "zipfile",
+        "description": "zipfile",
+        "isExtraImport": true,
+        "detail": "zipfile",
+        "documentation": {}
+    },
+    {
+        "label": "ZipFile",
+        "importPath": "zipfile",
+        "description": "zipfile",
+        "isExtraImport": true,
+        "detail": "zipfile",
+        "documentation": {}
+    },
+    {
+        "label": "eventlet",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "eventlet",
+        "description": "eventlet",
+        "detail": "eventlet",
+        "documentation": {}
+    },
+    {
+        "label": "openai",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "openai",
+        "description": "openai",
+        "detail": "openai",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "logging",
+        "description": "logging",
+        "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "jsonify",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "render_template",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "send_from_directory",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "jsonify",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "SocketIO",
+        "importPath": "flask_socketio",
+        "description": "flask_socketio",
+        "isExtraImport": true,
+        "detail": "flask_socketio",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "argparse",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "argparse",
+        "description": "argparse",
+        "detail": "argparse",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "scan_and_repair_capsules",
+        "importPath": "capsule_audit_utils",
+        "description": "capsule_audit_utils",
+        "isExtraImport": true,
+        "detail": "capsule_audit_utils",
+        "documentation": {}
+    },
+    {
+        "label": "AUDITOR_OUTPUT_DIR",
+        "importPath": "capsule_audit_utils",
+        "description": "capsule_audit_utils",
+        "isExtraImport": true,
+        "detail": "capsule_audit_utils",
+        "documentation": {}
+    },
+    {
+        "label": "os,",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os.",
+        "description": "os.",
+        "detail": "os.",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "hashlib",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "hashlib",
+        "description": "hashlib",
+        "detail": "hashlib",
+        "documentation": {}
+    },
+    {
+        "label": "shutil",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "shutil",
+        "description": "shutil",
+        "detail": "shutil",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "datetime",
+        "description": "datetime",
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "platform",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "platform",
+        "description": "platform",
+        "detail": "platform",
+        "documentation": {}
+    },
+    {
+        "label": "uuid",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "uuid",
+        "description": "uuid",
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "socket",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "socket",
+        "description": "socket",
+        "detail": "socket",
+        "documentation": {}
+    },
+    {
+        "label": "subprocess",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "subprocess",
+        "description": "subprocess",
+        "detail": "subprocess",
+        "documentation": {}
+    },
+    {
+        "label": "yaml",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "yaml",
+        "description": "yaml",
+        "detail": "yaml",
+        "documentation": {}
+    },
+    {
+        "label": "asyncio",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "asyncio",
+        "description": "asyncio",
+        "detail": "asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "websockets",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "websockets",
+        "description": "websockets",
+        "detail": "websockets",
+        "documentation": {}
+    },
+    {
+        "label": "CORS",
+        "importPath": "flask_cors",
+        "description": "flask_cors",
+        "isExtraImport": true,
+        "detail": "flask_cors",
+        "documentation": {}
+    },
+    {
+        "label": "requests",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "requests",
+        "description": "requests",
+        "detail": "requests",
+        "documentation": {}
+    },
+    {
+        "label": "Observer",
+        "importPath": "watchdog.observers",
+        "description": "watchdog.observers",
+        "isExtraImport": true,
+        "detail": "watchdog.observers",
+        "documentation": {}
+    },
+    {
+        "label": "FileSystemEventHandler",
+        "importPath": "watchdog.events",
+        "description": "watchdog.events",
+        "isExtraImport": true,
+        "detail": "watchdog.events",
+        "documentation": {}
+    },
+    {
+        "label": "final_dir",
+        "kind": 5,
+        "importPath": "brpwsweragentzero",
+        "description": "brpwsweragentzero",
+        "peekOfCode": "final_dir = \"/mnt/data/Operator_Mesh_Extension_Kit_v2\"\nos.makedirs(final_dir, exist_ok=True)\n# Define component files and contents\nfiles = {\n    \"browser_reflex.js\": \"// DOM intent bridge — placeholder content\\n\",\n    \"camp_route.js\": \"// Drag-and-drop .camp delivery — placeholder\\n\",\n    \"agent_console.html\": \"<!-- Live WebSocket control console placeholder -->\\n\",\n    \"gpt_ui_sync.js\": \"\"\"\n// GPT UI Sync: Injects messages into ChatGPT and reads responses\nfunction sendToChatGPT(message) {",
+        "detail": "brpwsweragentzero",
+        "documentation": {}
+    },
+    {
+        "label": "files",
+        "kind": 5,
+        "importPath": "brpwsweragentzero",
+        "description": "brpwsweragentzero",
+        "peekOfCode": "files = {\n    \"browser_reflex.js\": \"// DOM intent bridge — placeholder content\\n\",\n    \"camp_route.js\": \"// Drag-and-drop .camp delivery — placeholder\\n\",\n    \"agent_console.html\": \"<!-- Live WebSocket control console placeholder -->\\n\",\n    \"gpt_ui_sync.js\": \"\"\"\n// GPT UI Sync: Injects messages into ChatGPT and reads responses\nfunction sendToChatGPT(message) {\n  const inputBox = document.querySelector(\"textarea\");\n  const submitButton = inputBox?.parentNode?.querySelector(\"button\");\n  if (!inputBox || !submitButton) return console.warn(\"[Agent 0] GPT input field not found.\");",
+        "detail": "brpwsweragentzero",
+        "documentation": {}
+    },
+    {
+        "label": "manifest",
+        "kind": 5,
+        "importPath": "brpwsweragentzero",
+        "description": "brpwsweragentzero",
+        "peekOfCode": "manifest = {\n    \"manifest_version\": 3,\n    \"name\": \"Operator Mesh Extension: GPT Sync Edition\",\n    \"version\": \"2.0\",\n    \"permissions\": [\"tabs\", \"activeTab\", \"scripting\"],\n    \"content_scripts\": [{\n        \"matches\": [\"https://chat.openai.com/*\"],\n        \"js\": [\"gpt_ui_sync.js\"],\n        \"run_at\": \"document_idle\"\n    }]",
+        "detail": "brpwsweragentzero",
+        "documentation": {}
+    },
+    {
+        "label": "qr_data",
+        "kind": 5,
+        "importPath": "brpwsweragentzero",
+        "description": "brpwsweragentzero",
+        "peekOfCode": "qr_data = {\n    \"reflex\": \"Operator_Mesh_Extension_Kit_v2\",\n    \"entry\": \"agent_console.html\",\n    \"sync\": \"chatgpt_dom\",\n    \"invoke\": True\n}\nqr_path = os.path.join(final_dir, \"operator_mesh_qr.png\")\nqrcode.make(str(qr_data)).save(qr_path)\n# Create final zip\nfinal_zip_path = \"/mnt/data/Operator_Mesh_Extension_Kit_v2.zip\"",
+        "detail": "brpwsweragentzero",
+        "documentation": {}
+    },
+    {
+        "label": "qr_path",
+        "kind": 5,
+        "importPath": "brpwsweragentzero",
+        "description": "brpwsweragentzero",
+        "peekOfCode": "qr_path = os.path.join(final_dir, \"operator_mesh_qr.png\")\nqrcode.make(str(qr_data)).save(qr_path)\n# Create final zip\nfinal_zip_path = \"/mnt/data/Operator_Mesh_Extension_Kit_v2.zip\"\nwith ZipFile(final_zip_path, \"w\") as zipf:\n    for fname in os.listdir(final_dir):\n        zipf.write(os.path.join(final_dir, fname), arcname=fname)\nprint(final_zip_path)",
+        "detail": "brpwsweragentzero",
+        "documentation": {}
+    },
+    {
+        "label": "final_zip_path",
+        "kind": 5,
+        "importPath": "brpwsweragentzero",
+        "description": "brpwsweragentzero",
+        "peekOfCode": "final_zip_path = \"/mnt/data/Operator_Mesh_Extension_Kit_v2.zip\"\nwith ZipFile(final_zip_path, \"w\") as zipf:\n    for fname in os.listdir(final_dir):\n        zipf.write(os.path.join(final_dir, fname), arcname=fname)\nprint(final_zip_path)",
+        "detail": "brpwsweragentzero",
+        "documentation": {}
+    },
+    {
+        "label": "SmartFixerAssistant",
+        "kind": 6,
+        "importPath": "camp_unpack_and_run_v2",
+        "description": "camp_unpack_and_run_v2",
+        "peekOfCode": "class SmartFixerAssistant:\n    def __init__(self):\n        self.VIP_MODE = os.getenv(\"ENABLE_VIP_MODE\", \"false\").lower() == \"true\"\n        self.BETA_MODE = os.getenv(\"ENABLE_BETA_MODE\", \"false\").lower() == \"true\"\n        self.EXEC_MODE = os.getenv(\"ENABLE_EXEC_MODE\", \"false\").lower() == \"true\"\n    def unlock_features(self, solution):\n        if \"VIP\" in solution:\n            self.VIP_MODE = True\n            logging.info(\"VIP Mode unlocked!\")\n        if \"Beta\" in solution:",
+        "detail": "camp_unpack_and_run_v2",
+        "documentation": {}
+    },
+    {
+        "label": "ChatGPTAssistant",
+        "kind": 6,
+        "importPath": "camp_unpack_and_run_v2",
+        "description": "camp_unpack_and_run_v2",
+        "peekOfCode": "class ChatGPTAssistant:\n    def summarize_project(self, project_path):\n        return \"Project summary: files and Git status.\"\n    def git_status(self):\n        return \"Current Git status.\"\n    def docker_status(self):\n        return \"Docker container is running.\"\nclass BossAssistant:\n    def __init__(self):\n        self.VIP_MODE = os.getenv(\"ENABLE_VIP_MODE\", \"false\").lower() == \"true\"",
+        "detail": "camp_unpack_and_run_v2",
+        "documentation": {}
+    },
+    {
+        "label": "BossAssistant",
+        "kind": 6,
+        "importPath": "camp_unpack_and_run_v2",
+        "description": "camp_unpack_and_run_v2",
+        "peekOfCode": "class BossAssistant:\n    def __init__(self):\n        self.VIP_MODE = os.getenv(\"ENABLE_VIP_MODE\", \"false\").lower() == \"true\"\n        self.BETA_MODE = os.getenv(\"ENABLE_BETA_MODE\", \"false\").lower() == \"true\"\n        self.EXEC_MODE = os.getenv(\"ENABLE_EXEC_MODE\", \"false\").lower() == \"true\"\n    def run_all_features(self):\n        self.VIP_MODE = self.BETA_MODE = self.EXEC_MODE = True\n        logging.info(\"All modes activated: VIP, Beta, Executive\")\nif __name__ == \"__main__\":\n    socketio.run(app, debug=os.getenv(\"FLASK_DEBUG\") == \"True\", host=\"127.0.0.1\", port=int(os.getenv(\"FLASK_PORT\", 5000)))",
+        "detail": "camp_unpack_and_run_v2",
+        "documentation": {}
+    },
+    {
+        "label": "home",
+        "kind": 2,
+        "importPath": "camp_unpack_and_run_v2",
+        "description": "camp_unpack_and_run_v2",
+        "peekOfCode": "def home():\n    return render_template('index.html')\n@app.route('/beta-feature')\ndef beta_feature():\n    if FEATURE_BETA:\n        return jsonify({\"message\": \"Welcome to the Beta feature!\"})\n    else:\n        return jsonify({\"message\": \"This feature is not yet available.\"}), 403\n@app.route('/vip')\ndef vip_feature():",
+        "detail": "camp_unpack_and_run_v2",
+        "documentation": {}
+    },
+    {
+        "label": "beta_feature",
+        "kind": 2,
+        "importPath": "camp_unpack_and_run_v2",
+        "description": "camp_unpack_and_run_v2",
+        "peekOfCode": "def beta_feature():\n    if FEATURE_BETA:\n        return jsonify({\"message\": \"Welcome to the Beta feature!\"})\n    else:\n        return jsonify({\"message\": \"This feature is not yet available.\"}), 403\n@app.route('/vip')\ndef vip_feature():\n    if FEATURE_VIP:\n        return jsonify({\"message\": \"Welcome VIP! You have access to exclusive features.\"})\n    else:",
+        "detail": "camp_unpack_and_run_v2",
+        "documentation": {}
+    },
+    {
+        "label": "vip_feature",
+        "kind": 2,
+        "importPath": "camp_unpack_and_run_v2",
+        "description": "camp_unpack_and_run_v2",
+        "peekOfCode": "def vip_feature():\n    if FEATURE_VIP:\n        return jsonify({\"message\": \"Welcome VIP! You have access to exclusive features.\"})\n    else:\n        return jsonify({\"message\": \"This is for VIPs only.\"}), 403\n@app.route('/quick-connect')\ndef quick_connect():\n    assistant = BossAssistant()\n    assistant.run_all_features()\n    return jsonify({\"message\": \"🚀 All features activated!\"})",
+        "detail": "camp_unpack_and_run_v2",
+        "documentation": {}
+    },
+    {
+        "label": "quick_connect",
+        "kind": 2,
+        "importPath": "camp_unpack_and_run_v2",
+        "description": "camp_unpack_and_run_v2",
+        "peekOfCode": "def quick_connect():\n    assistant = BossAssistant()\n    assistant.run_all_features()\n    return jsonify({\"message\": \"🚀 All features activated!\"})\n@app.route('/auto-fix')\ndef auto_fix():\n    assistant = SmartFixerAssistant()\n    issue_log = \"ModuleNotFoundError: No module named 'vip_feature'\"\n    solution = assistant.request_fix(issue_log)\n    return jsonify({\"solution\": solution})",
+        "detail": "camp_unpack_and_run_v2",
+        "documentation": {}
+    },
+    {
+        "label": "auto_fix",
+        "kind": 2,
+        "importPath": "camp_unpack_and_run_v2",
+        "description": "camp_unpack_and_run_v2",
+        "peekOfCode": "def auto_fix():\n    assistant = SmartFixerAssistant()\n    issue_log = \"ModuleNotFoundError: No module named 'vip_feature'\"\n    solution = assistant.request_fix(issue_log)\n    return jsonify({\"solution\": solution})\n@app.route('/chat', methods=['POST'])\ndef chat():\n    message = request.json.get('message')\n    try:\n        response = openai.ChatCompletion.create(",
+        "detail": "camp_unpack_and_run_v2",
+        "documentation": {}
+    },
+    {
+        "label": "chat",
+        "kind": 2,
+        "importPath": "camp_unpack_and_run_v2",
+        "description": "camp_unpack_and_run_v2",
+        "peekOfCode": "def chat():\n    message = request.json.get('message')\n    try:\n        response = openai.ChatCompletion.create(\n            model=\"gpt-4\",\n            messages=[\n                {\"role\": \"system\", \"content\": \"You are a helpful assistant.\"},\n                {\"role\": \"user\", \"content\": message}\n            ],\n            temperature=0.5,",
+        "detail": "camp_unpack_and_run_v2",
+        "documentation": {}
+    },
+    {
+        "label": "handle_connect",
+        "kind": 2,
+        "importPath": "camp_unpack_and_run_v2",
+        "description": "camp_unpack_and_run_v2",
+        "peekOfCode": "def handle_connect():\n    logging.info(\"Client connected\")\n    socketio.emit(\"server_message\", {\"message\": \"Socket.IO connection established!\"})\n@socketio.on(\"send_message\")\ndef handle_message(data):\n    user_message = data.get(\"message\", \"\")\n    logging.info(f\"Message received from client: {user_message}\")\n    # Pass the user message to GPT for a response\n    try:\n        response = openai.ChatCompletion.create(",
+        "detail": "camp_unpack_and_run_v2",
+        "documentation": {}
+    },
+    {
+        "label": "handle_message",
+        "kind": 2,
+        "importPath": "camp_unpack_and_run_v2",
+        "description": "camp_unpack_and_run_v2",
+        "peekOfCode": "def handle_message(data):\n    user_message = data.get(\"message\", \"\")\n    logging.info(f\"Message received from client: {user_message}\")\n    # Pass the user message to GPT for a response\n    try:\n        response = openai.ChatCompletion.create(\n            model=\"gpt-4\",\n            messages=[\n                {\"role\": \"system\", \"content\": \"You are a helpful assistant.\"},\n                {\"role\": \"user\", \"content\": user_message}",
+        "detail": "camp_unpack_and_run_v2",
+        "documentation": {}
+    },
+    {
+        "label": "handle_assistant_response",
+        "kind": 2,
+        "importPath": "camp_unpack_and_run_v2",
+        "description": "camp_unpack_and_run_v2",
+        "peekOfCode": "def handle_assistant_response(data):\n    assistant_message = data.get(\"message\", \"\")\n    logging.info(f\"Assistant sent: {assistant_message}\")\n    # Optionally broadcast or log this\n    socketio.emit(\"server_broadcast\", {\"response\": assistant_message})\n# Assistants\nclass SmartFixerAssistant:\n    def __init__(self):\n        self.VIP_MODE = os.getenv(\"ENABLE_VIP_MODE\", \"false\").lower() == \"true\"\n        self.BETA_MODE = os.getenv(\"ENABLE_BETA_MODE\", \"false\").lower() == \"true\"",
+        "detail": "camp_unpack_and_run_v2",
+        "documentation": {}
+    },
+    {
+        "label": "openai.api_key",
+        "kind": 5,
+        "importPath": "camp_unpack_and_run_v2",
+        "description": "camp_unpack_and_run_v2",
+        "peekOfCode": "openai.api_key = os.getenv(\"API_KEY_OPENAI\", \"\")\n# Initialize Flask app and Socket.IO\napp = Flask(__name__)\napp.config['SECRET_KEY'] = os.getenv('FLASK_SECRET_KEY', 'default_secret_key')\nsocketio = SocketIO(app, cors_allowed_origins=\"*\", async_mode=os.getenv('SOCKETIO_ASYNC_MODE', 'eventlet'))\n# Set up logging\nlogging.basicConfig(level=os.getenv(\"LOGGING_LEVEL\", \"INFO\"))\n# Environment-based feature flags\nFEATURE_BETA = os.getenv('FEATURE_BETA', 'false').lower() == 'true'\nFEATURE_VIP = os.getenv('FEATURE_VIP', 'false').lower() == 'true'",
+        "detail": "camp_unpack_and_run_v2",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "camp_unpack_and_run_v2",
+        "description": "camp_unpack_and_run_v2",
+        "peekOfCode": "app = Flask(__name__)\napp.config['SECRET_KEY'] = os.getenv('FLASK_SECRET_KEY', 'default_secret_key')\nsocketio = SocketIO(app, cors_allowed_origins=\"*\", async_mode=os.getenv('SOCKETIO_ASYNC_MODE', 'eventlet'))\n# Set up logging\nlogging.basicConfig(level=os.getenv(\"LOGGING_LEVEL\", \"INFO\"))\n# Environment-based feature flags\nFEATURE_BETA = os.getenv('FEATURE_BETA', 'false').lower() == 'true'\nFEATURE_VIP = os.getenv('FEATURE_VIP', 'false').lower() == 'true'\n# Flask Routes\n@app.route('/')",
+        "detail": "camp_unpack_and_run_v2",
+        "documentation": {}
+    },
+    {
+        "label": "app.config['SECRET_KEY']",
+        "kind": 5,
+        "importPath": "camp_unpack_and_run_v2",
+        "description": "camp_unpack_and_run_v2",
+        "peekOfCode": "app.config['SECRET_KEY'] = os.getenv('FLASK_SECRET_KEY', 'default_secret_key')\nsocketio = SocketIO(app, cors_allowed_origins=\"*\", async_mode=os.getenv('SOCKETIO_ASYNC_MODE', 'eventlet'))\n# Set up logging\nlogging.basicConfig(level=os.getenv(\"LOGGING_LEVEL\", \"INFO\"))\n# Environment-based feature flags\nFEATURE_BETA = os.getenv('FEATURE_BETA', 'false').lower() == 'true'\nFEATURE_VIP = os.getenv('FEATURE_VIP', 'false').lower() == 'true'\n# Flask Routes\n@app.route('/')\ndef home():",
+        "detail": "camp_unpack_and_run_v2",
+        "documentation": {}
+    },
+    {
+        "label": "socketio",
+        "kind": 5,
+        "importPath": "camp_unpack_and_run_v2",
+        "description": "camp_unpack_and_run_v2",
+        "peekOfCode": "socketio = SocketIO(app, cors_allowed_origins=\"*\", async_mode=os.getenv('SOCKETIO_ASYNC_MODE', 'eventlet'))\n# Set up logging\nlogging.basicConfig(level=os.getenv(\"LOGGING_LEVEL\", \"INFO\"))\n# Environment-based feature flags\nFEATURE_BETA = os.getenv('FEATURE_BETA', 'false').lower() == 'true'\nFEATURE_VIP = os.getenv('FEATURE_VIP', 'false').lower() == 'true'\n# Flask Routes\n@app.route('/')\ndef home():\n    return render_template('index.html')",
+        "detail": "camp_unpack_and_run_v2",
+        "documentation": {}
+    },
+    {
+        "label": "FEATURE_BETA",
+        "kind": 5,
+        "importPath": "camp_unpack_and_run_v2",
+        "description": "camp_unpack_and_run_v2",
+        "peekOfCode": "FEATURE_BETA = os.getenv('FEATURE_BETA', 'false').lower() == 'true'\nFEATURE_VIP = os.getenv('FEATURE_VIP', 'false').lower() == 'true'\n# Flask Routes\n@app.route('/')\ndef home():\n    return render_template('index.html')\n@app.route('/beta-feature')\ndef beta_feature():\n    if FEATURE_BETA:\n        return jsonify({\"message\": \"Welcome to the Beta feature!\"})",
+        "detail": "camp_unpack_and_run_v2",
+        "documentation": {}
+    },
+    {
+        "label": "FEATURE_VIP",
+        "kind": 5,
+        "importPath": "camp_unpack_and_run_v2",
+        "description": "camp_unpack_and_run_v2",
+        "peekOfCode": "FEATURE_VIP = os.getenv('FEATURE_VIP', 'false').lower() == 'true'\n# Flask Routes\n@app.route('/')\ndef home():\n    return render_template('index.html')\n@app.route('/beta-feature')\ndef beta_feature():\n    if FEATURE_BETA:\n        return jsonify({\"message\": \"Welcome to the Beta feature!\"})\n    else:",
+        "detail": "camp_unpack_and_run_v2",
+        "documentation": {}
+    },
+    {
+        "label": "gpt_assist",
+        "kind": 2,
+        "importPath": "capsule_audit_utils",
+        "description": "capsule_audit_utils",
+        "peekOfCode": "def gpt_assist(prompt, url=\"http://localhost:11434/gpt\"):\n    try:\n        import requests\n        res = requests.post(url, json={\"prompt\": prompt})\n        return res.json().get(\"response\", \"No reply.\")\n    except Exception as e:\n        return f\"[GPT Error] {e}\"\ndef scan_and_repair_capsules(base_dir=\"/mnt/data\", dry_run=False):\n    repaired_files, summaries = [], {}\n    for fname in os.listdir(base_dir):",
+        "detail": "capsule_audit_utils",
+        "documentation": {}
+    },
+    {
+        "label": "scan_and_repair_capsules",
+        "kind": 2,
+        "importPath": "capsule_audit_utils",
+        "description": "capsule_audit_utils",
+        "peekOfCode": "def scan_and_repair_capsules(base_dir=\"/mnt/data\", dry_run=False):\n    repaired_files, summaries = [], {}\n    for fname in os.listdir(base_dir):\n        if fname.endswith((\".zip\", \".camp\")):\n            full_path = os.path.join(base_dir, fname)\n            capsule_name = Path(fname).stem\n            extract_dir = os.path.join(base_dir, f\"extracted_{capsule_name}\")\n            shutil.rmtree(extract_dir, ignore_errors=True)\n            os.makedirs(extract_dir, exist_ok=True)\n            with zipfile.ZipFile(full_path, \"r\") as zip_ref:",
+        "detail": "capsule_audit_utils",
+        "documentation": {}
+    },
+    {
+        "label": "count_files",
+        "kind": 2,
+        "importPath": "capsule_audit_utils",
+        "description": "capsule_audit_utils",
+        "peekOfCode": "def count_files(root_dir):\n    return sum(len(files) for _, _, files in os.walk(root_dir))\ndef find_file(root_dir, filename):\n    for root, _, files in os.walk(root_dir):\n        if filename in files:\n            return os.path.join(root, filename)\n    return None\ndef repair_and_validate_manifest(manifest_path, base_dir, log, dry_run):\n    unknown_perms, score = [], {\"manifest_integrity\": 100, \"permission_risk\": \"low\", \"total\": 100}\n    with open(manifest_path, \"r\", encoding=\"utf-8\") as f:",
+        "detail": "capsule_audit_utils",
+        "documentation": {}
+    },
+    {
+        "label": "find_file",
+        "kind": 2,
+        "importPath": "capsule_audit_utils",
+        "description": "capsule_audit_utils",
+        "peekOfCode": "def find_file(root_dir, filename):\n    for root, _, files in os.walk(root_dir):\n        if filename in files:\n            return os.path.join(root, filename)\n    return None\ndef repair_and_validate_manifest(manifest_path, base_dir, log, dry_run):\n    unknown_perms, score = [], {\"manifest_integrity\": 100, \"permission_risk\": \"low\", \"total\": 100}\n    with open(manifest_path, \"r\", encoding=\"utf-8\") as f:\n        try:\n            manifest = json.load(f)",
+        "detail": "capsule_audit_utils",
+        "documentation": {}
+    },
+    {
+        "label": "repair_and_validate_manifest",
+        "kind": 2,
+        "importPath": "capsule_audit_utils",
+        "description": "capsule_audit_utils",
+        "peekOfCode": "def repair_and_validate_manifest(manifest_path, base_dir, log, dry_run):\n    unknown_perms, score = [], {\"manifest_integrity\": 100, \"permission_risk\": \"low\", \"total\": 100}\n    with open(manifest_path, \"r\", encoding=\"utf-8\") as f:\n        try:\n            manifest = json.load(f)\n        except json.JSONDecodeError as e:\n            log.write(f\"❌ JSON error: {e}\\n\")\n            score[\"manifest_integrity\"] = 0\n            score[\"total\"] -= 30\n            return score, unknown_perms",
+        "detail": "capsule_audit_utils",
+        "documentation": {}
+    },
+    {
+        "label": "regenerate_reflect_yaml",
+        "kind": 2,
+        "importPath": "capsule_audit_utils",
+        "description": "capsule_audit_utils",
+        "peekOfCode": "def regenerate_reflect_yaml(reflect_path, root_dir, dry_run, score):\n    discovered = []\n    for root, _, files in os.walk(root_dir):\n        for file in files:\n            if file.endswith((\".js\", \".html\", \".py\")):\n                rel = os.path.relpath(os.path.join(root, file), start=root_dir)\n                discovered.append(rel)\n    data = {\n        \"capsule\": \"Auto-Repaired Reflex Capsule\",\n        \"files\": discovered,",
+        "detail": "capsule_audit_utils",
+        "documentation": {}
+    },
+    {
+        "label": "write_reflect_yaml",
+        "kind": 2,
+        "importPath": "capsule_audit_utils",
+        "description": "capsule_audit_utils",
+        "peekOfCode": "def write_reflect_yaml(reflect_path, root_dir, dry_run, score):\n    regenerate_reflect_yaml(reflect_path, root_dir, dry_run, score)",
+        "detail": "capsule_audit_utils",
+        "documentation": {}
+    },
+    {
+        "label": "AUDITOR_OUTPUT_DIR",
+        "kind": 5,
+        "importPath": "capsule_audit_utils",
+        "description": "capsule_audit_utils",
+        "peekOfCode": "AUDITOR_OUTPUT_DIR = \"/mnt/data/audited_capsules\"\nos.makedirs(AUDITOR_OUTPUT_DIR, exist_ok=True)\nKNOWN_PERMISSIONS = {\n    \"tabs\", \"activeTab\", \"storage\", \"scripting\", \"microphone\", \"camera\",\n    \"clipboardRead\", \"clipboardWrite\", \"webRequest\", \"webNavigation\",\n    \"notifications\", \"contextMenus\", \"idle\", \"windows\", \"debugger\", \"offscreen\", \"power\"\n}\nDEFAULT_PERSONALITY = {\n    \"agent_personality\": {\n        \"mode\": \"reflexive\",",
+        "detail": "capsule_audit_utils",
+        "documentation": {}
+    },
+    {
+        "label": "KNOWN_PERMISSIONS",
+        "kind": 5,
+        "importPath": "capsule_audit_utils",
+        "description": "capsule_audit_utils",
+        "peekOfCode": "KNOWN_PERMISSIONS = {\n    \"tabs\", \"activeTab\", \"storage\", \"scripting\", \"microphone\", \"camera\",\n    \"clipboardRead\", \"clipboardWrite\", \"webRequest\", \"webNavigation\",\n    \"notifications\", \"contextMenus\", \"idle\", \"windows\", \"debugger\", \"offscreen\", \"power\"\n}\nDEFAULT_PERSONALITY = {\n    \"agent_personality\": {\n        \"mode\": \"reflexive\",\n        \"memory_hooks\": True,\n        \"dashboard_ui\": True",
+        "detail": "capsule_audit_utils",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_PERSONALITY",
+        "kind": 5,
+        "importPath": "capsule_audit_utils",
+        "description": "capsule_audit_utils",
+        "peekOfCode": "DEFAULT_PERSONALITY = {\n    \"agent_personality\": {\n        \"mode\": \"reflexive\",\n        \"memory_hooks\": True,\n        \"dashboard_ui\": True\n    }\n}\nDEFAULT_GPT_HOOK = {\n    \"endpoint\": \"http://localhost:11434/gpt\",\n    \"persona_file\": \"aura-persona.json\",",
+        "detail": "capsule_audit_utils",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_GPT_HOOK",
+        "kind": 5,
+        "importPath": "capsule_audit_utils",
+        "description": "capsule_audit_utils",
+        "peekOfCode": "DEFAULT_GPT_HOOK = {\n    \"endpoint\": \"http://localhost:11434/gpt\",\n    \"persona_file\": \"aura-persona.json\",\n    \"fallback_prompt\": \"Describe any problems in this capsule.\"\n}\ndef gpt_assist(prompt, url=\"http://localhost:11434/gpt\"):\n    try:\n        import requests\n        res = requests.post(url, json={\"prompt\": prompt})\n        return res.json().get(\"response\", \"No reply.\")",
+        "detail": "capsule_audit_utils",
+        "documentation": {}
+    },
+    {
+        "label": "output_zip",
+        "kind": 5,
+        "importPath": "Capsule_Dev_Shell_Kit",
+        "description": "Capsule_Dev_Shell_Kit",
+        "peekOfCode": "output_zip = \"/mnt/data/Capsule_Dev_Shell_Kit.zip\"\nfiles_to_include = [\n    \"capsule_auditor.py\",\n    \"requirements.txt\",\n    \"launch_capsule.sh\",\n    \"reflex_debug_mode.bat\",\n    \"capsule_launcher.html\",\n    \"dashboard_server.py\",\n    \"capsule_bundle.bat\"\n]",
+        "detail": "Capsule_Dev_Shell_Kit",
+        "documentation": {}
+    },
+    {
+        "label": "files_to_include",
+        "kind": 5,
+        "importPath": "Capsule_Dev_Shell_Kit",
+        "description": "Capsule_Dev_Shell_Kit",
+        "peekOfCode": "files_to_include = [\n    \"capsule_auditor.py\",\n    \"requirements.txt\",\n    \"launch_capsule.sh\",\n    \"reflex_debug_mode.bat\",\n    \"capsule_launcher.html\",\n    \"dashboard_server.py\",\n    \"capsule_bundle.bat\"\n]\nwith zipfile.ZipFile(output_zip, \"w\", zipfile.ZIP_DEFLATED) as zipf:",
+        "detail": "Capsule_Dev_Shell_Kit",
+        "documentation": {}
+    },
+    {
+        "label": "get_file_hash",
+        "kind": 2,
+        "importPath": "check_repo_integrity",
+        "description": "check_repo_integrity",
+        "peekOfCode": "def get_file_hash(path):\n    h = hashlib.sha256()\n    with open(path, 'rb') as f:\n        for chunk in iter(lambda: f.read(8192), b''):\n            h.update(chunk)\n    return h.hexdigest()\ndef main():\n    repo_root = os.path.dirname(os.path.abspath(__file__))\n    file_hashes = {}\n    empty_files = []",
+        "detail": "check_repo_integrity",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "check_repo_integrity",
+        "description": "check_repo_integrity",
+        "peekOfCode": "def main():\n    repo_root = os.path.dirname(os.path.abspath(__file__))\n    file_hashes = {}\n    empty_files = []\n    duplicates = {}\n    for root, _, files in os.walk(repo_root):\n        # skip .git directory\n        if '.git' in root.split(os.sep):\n            continue\n        for fname in files:",
+        "detail": "check_repo_integrity",
+        "documentation": {}
+    },
+    {
+        "label": "index",
+        "kind": 2,
+        "importPath": "dashboard_server",
+        "description": "dashboard_server",
+        "peekOfCode": "def index():\n    # Serve index.html if available\n    if os.path.exists('index.html'):\n        return app.send_static_file('index.html')\n    return '<h1>Capsule Dashboard</h1>'\n@app.route('/<path:filename>')\ndef static_files(filename):\n    # Serve any other static file in the repository directory\n    if os.path.exists(filename):\n        return send_from_directory('.', filename)",
+        "detail": "dashboard_server",
+        "documentation": {}
+    },
+    {
+        "label": "static_files",
+        "kind": 2,
+        "importPath": "dashboard_server",
+        "description": "dashboard_server",
+        "peekOfCode": "def static_files(filename):\n    # Serve any other static file in the repository directory\n    if os.path.exists(filename):\n        return send_from_directory('.', filename)\n    return '', 404\nif __name__ == '__main__':\n    port = int(os.environ.get('DASHBOARD_PORT', 8686))\n    app.run(host='0.0.0.0', port=port)",
+        "detail": "dashboard_server",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "dashboard_server",
+        "description": "dashboard_server",
+        "peekOfCode": "app = Flask(__name__, static_folder=\".\", static_url_path=\"\")\n@app.route('/')\ndef index():\n    # Serve index.html if available\n    if os.path.exists('index.html'):\n        return app.send_static_file('index.html')\n    return '<h1>Capsule Dashboard</h1>'\n@app.route('/<path:filename>')\ndef static_files(filename):\n    # Serve any other static file in the repository directory",
+        "detail": "dashboard_server",
+        "documentation": {}
+    },
+    {
+        "label": "qr_path",
+        "kind": 5,
+        "importPath": "full_shrine_deployment_token",
+        "description": "full_shrine_deployment_token",
+        "peekOfCode": "qr_path = \"/mnt/data/QR_ShrineToken_Capsule_Dev_Shell_Kit.png\"\nlaunch_uri = \"capsule://launch/Capsule_Dev_Shell_Kit_SHRINE\"\nqr_img = qrcode.make(launch_uri)\n# 2. Shrine Desktop Stub (.desktop launcher for Linux)\ndesktop_stub_path = \"/mnt/data/Launch_Capsule_Shrine.desktop\"\nwith open(desktop_stub_path, \"w\") as f:\n    f.write(f\"\"\"[Desktop Entry]\nName=Launch Capsule Dev Shell Kit\nComment=Boots the Agent 0 Shrine Reflex Capsule\nExec=sh -c 'unzip Capsule_Dev_Shell_Kit_SHRINE.camp -d shrine && cd shrine && chmod +x __launch.sh && ./__launch.sh'",
+        "detail": "full_shrine_deployment_token",
+        "documentation": {}
+    },
+    {
+        "label": "launch_uri",
+        "kind": 5,
+        "importPath": "full_shrine_deployment_token",
+        "description": "full_shrine_deployment_token",
+        "peekOfCode": "launch_uri = \"capsule://launch/Capsule_Dev_Shell_Kit_SHRINE\"\nqr_img = qrcode.make(launch_uri)\n# 2. Shrine Desktop Stub (.desktop launcher for Linux)\ndesktop_stub_path = \"/mnt/data/Launch_Capsule_Shrine.desktop\"\nwith open(desktop_stub_path, \"w\") as f:\n    f.write(f\"\"\"[Desktop Entry]\nName=Launch Capsule Dev Shell Kit\nComment=Boots the Agent 0 Shrine Reflex Capsule\nExec=sh -c 'unzip Capsule_Dev_Shell_Kit_SHRINE.camp -d shrine && cd shrine && chmod +x __launch.sh && ./__launch.sh'\nIcon=utilities-terminal",
+        "detail": "full_shrine_deployment_token",
+        "documentation": {}
+    },
+    {
+        "label": "qr_img",
+        "kind": 5,
+        "importPath": "full_shrine_deployment_token",
+        "description": "full_shrine_deployment_token",
+        "peekOfCode": "qr_img = qrcode.make(launch_uri)\n# 2. Shrine Desktop Stub (.desktop launcher for Linux)\ndesktop_stub_path = \"/mnt/data/Launch_Capsule_Shrine.desktop\"\nwith open(desktop_stub_path, \"w\") as f:\n    f.write(f\"\"\"[Desktop Entry]\nName=Launch Capsule Dev Shell Kit\nComment=Boots the Agent 0 Shrine Reflex Capsule\nExec=sh -c 'unzip Capsule_Dev_Shell_Kit_SHRINE.camp -d shrine && cd shrine && chmod +x __launch.sh && ./__launch.sh'\nIcon=utilities-terminal\nTerminal=true",
+        "detail": "full_shrine_deployment_token",
+        "documentation": {}
+    },
+    {
+        "label": "desktop_stub_path",
+        "kind": 5,
+        "importPath": "full_shrine_deployment_token",
+        "description": "full_shrine_deployment_token",
+        "peekOfCode": "desktop_stub_path = \"/mnt/data/Launch_Capsule_Shrine.desktop\"\nwith open(desktop_stub_path, \"w\") as f:\n    f.write(f\"\"\"[Desktop Entry]\nName=Launch Capsule Dev Shell Kit\nComment=Boots the Agent 0 Shrine Reflex Capsule\nExec=sh -c 'unzip Capsule_Dev_Shell_Kit_SHRINE.camp -d shrine && cd shrine && chmod +x __launch.sh && ./__launch.sh'\nIcon=utilities-terminal\nTerminal=true\nType=Application\nCategories=Utility;Development;",
+        "detail": "full_shrine_deployment_token",
+        "documentation": {}
+    },
+    {
+        "label": "update_script_path",
+        "kind": 5,
+        "importPath": "full_shrine_deployment_token",
+        "description": "full_shrine_deployment_token",
+        "peekOfCode": "update_script_path = \"/mnt/data/update_capsule_dev_shell.sh\"\nwith open(update_script_path, \"w\") as f:\n    f.write(\"\"\"#!/bin/bash\necho \"🔄 Checking for updates to Capsule Dev Shell Kit...\"\n# Placeholder: Replace with real update logic (e.g. git pull or download from server)\n# For now, just touch to simulate update\ntouch Capsule_Dev_Shell_Kit_SHRINE.camp\necho \"✅ Capsule is now up to date.\"\n\"\"\")\n# Save QR",
+        "detail": "full_shrine_deployment_token",
+        "documentation": {}
+    },
+    {
+        "label": "index_html_path",
+        "kind": 5,
+        "importPath": "Generate",
+        "description": "Generate",
+        "peekOfCode": "index_html_path = \"/mnt/data/index.html\"\nsigil_artifact_path = \"/mnt/data/Light3_SIGIL_ARTIFACT.txt\"\nprotocol_kit_path = \"/mnt/data/capsule_protocol_handler_kit.txt\"\n# === index.html (Local Web Dashboard) ===\nindex_html = \"\"\"\n<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n  <meta charset=\"UTF-8\">\n  <title>Light3 Shrine Capsule Dashboard</title>",
+        "detail": "Generate",
+        "documentation": {}
+    },
+    {
+        "label": "sigil_artifact_path",
+        "kind": 5,
+        "importPath": "Generate",
+        "description": "Generate",
+        "peekOfCode": "sigil_artifact_path = \"/mnt/data/Light3_SIGIL_ARTIFACT.txt\"\nprotocol_kit_path = \"/mnt/data/capsule_protocol_handler_kit.txt\"\n# === index.html (Local Web Dashboard) ===\nindex_html = \"\"\"\n<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n  <meta charset=\"UTF-8\">\n  <title>Light3 Shrine Capsule Dashboard</title>\n  <style>",
+        "detail": "Generate",
+        "documentation": {}
+    },
+    {
+        "label": "protocol_kit_path",
+        "kind": 5,
+        "importPath": "Generate",
+        "description": "Generate",
+        "peekOfCode": "protocol_kit_path = \"/mnt/data/capsule_protocol_handler_kit.txt\"\n# === index.html (Local Web Dashboard) ===\nindex_html = \"\"\"\n<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n  <meta charset=\"UTF-8\">\n  <title>Light3 Shrine Capsule Dashboard</title>\n  <style>\n    body {",
+        "detail": "Generate",
+        "documentation": {}
+    },
+    {
+        "label": "index_html",
+        "kind": 5,
+        "importPath": "Generate",
+        "description": "Generate",
+        "peekOfCode": "index_html = \"\"\"\n<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n  <meta charset=\"UTF-8\">\n  <title>Light3 Shrine Capsule Dashboard</title>\n  <style>\n    body {\n      background-color: #0c0f14;\n      color: #00ffc2;",
+        "detail": "Generate",
+        "documentation": {}
+    },
+    {
+        "label": "sigil_content",
+        "kind": 5,
+        "importPath": "Generate",
+        "description": "Generate",
+        "peekOfCode": "sigil_content = \"\"\"\n𓂀 LIGHT3 CAPSULE SIGIL 𓂀\n[Reflex Tag]\n  Capsule: Light3_Reflex_Shrine_Healed\n  SHA256: Sealed and stored in .sig\n  Entry Point: aura-dashboard.html\n[Invocation Phrase]\n  \"Agent 0 awaken.\"\n[Glyph URL]\n  capsule://launch/Light3_Reflex_Shrine_Healed?sigil=verified&entry=aura-dashboard.html",
+        "detail": "Generate",
+        "documentation": {}
+    },
+    {
+        "label": "protocol_kit",
+        "kind": 5,
+        "importPath": "Generate",
+        "description": "Generate",
+        "peekOfCode": "protocol_kit = \"\"\"\n# === capsule:// Protocol Handler Registration Kit ===\n## Windows (.reg file template)\nWindows Registry Editor Version 5.00\n[HKEY_CLASSES_ROOT\\\\capsule]\n@=\"URL:Capsule Protocol\"\n\"URL Protocol\"=\"\"\n[HKEY_CLASSES_ROOT\\\\capsule\\\\shell]\n[HKEY_CLASSES_ROOT\\\\capsule\\\\shell\\\\open]\n[HKEY_CLASSES_ROOT\\\\capsule\\\\shell\\\\open\\\\command]",
+        "detail": "Generate",
+        "documentation": {}
+    },
+    {
+        "label": "validate_shrine",
+        "kind": 2,
+        "importPath": "gpt_browser",
+        "description": "gpt_browser",
+        "peekOfCode": "def validate_shrine(zip_path):\n    print(\"[Shrine] Verifying .zip integrity...\")\n    if not os.path.exists(zip_path):\n        print(\"⚠️ Shrine ZIP not found.\")\n        return False\n    with open(zip_path, \"rb\") as f:\n        content = f.read()\n        sha256_hash = hashlib.sha256(content).hexdigest()\n        print(f\"[Shrine] SHA256: {sha256_hash}\")\n    return True",
+        "detail": "gpt_browser",
+        "documentation": {}
+    },
+    {
+        "label": "load_shrine_capsule",
+        "kind": 2,
+        "importPath": "gpt_browser",
+        "description": "gpt_browser",
+        "peekOfCode": "def load_shrine_capsule(zip_path):\n    print(\"[Shrine] Loading capsule contents...\")\n    with zipfile.ZipFile(zip_path, 'r') as shrine:\n        print(\"[Shrine] Files found:\")\n        for name in shrine.namelist():\n            print(\" -\", name)\n        shrine.extractall(\"gpt_import/shrine_loaded\")\n        print(\"[Shrine] Capsule extracted to /shrine_loaded\")\n# Main routine to mount shrine\ndef mount_operator_overlay():",
+        "detail": "gpt_browser",
+        "documentation": {}
+    },
+    {
+        "label": "mount_operator_overlay",
+        "kind": 2,
+        "importPath": "gpt_browser",
+        "description": "gpt_browser",
+        "peekOfCode": "def mount_operator_overlay():\n    if validate_shrine(SHRINE_PATH):\n        load_shrine_capsule(SHRINE_PATH)\n        print(\"[Shrine] Operator Overlay is now staged and extractable.\")\n    else:\n        print(\"[Shrine] Invalid or missing capsule.\")\n# Call it on extension load or inject manually\nif __name__ == \"__main__\":\n    mount_operator_overlay()",
+        "detail": "gpt_browser",
+        "documentation": {}
+    },
+    {
+        "label": "SHRINE_PATH",
+        "kind": 5,
+        "importPath": "gpt_browser",
+        "description": "gpt_browser",
+        "peekOfCode": "SHRINE_PATH = \"gpt_import/Operator_Overlay_Shrine_Ready.zip\"\ndef validate_shrine(zip_path):\n    print(\"[Shrine] Verifying .zip integrity...\")\n    if not os.path.exists(zip_path):\n        print(\"⚠️ Shrine ZIP not found.\")\n        return False\n    with open(zip_path, \"rb\") as f:\n        content = f.read()\n        sha256_hash = hashlib.sha256(content).hexdigest()\n        print(f\"[Shrine] SHA256: {sha256_hash}\")",
+        "detail": "gpt_browser",
+        "documentation": {}
+    },
+    {
+        "label": "light3_zip",
+        "kind": 5,
+        "importPath": "importSeal",
+        "description": "importSeal",
+        "peekOfCode": "light3_zip = \"/mnt/data/light3.zip\"\ncamp_output = \"/mnt/data/Light3_Reflex_Shrine_Healed.camp\"\nsig_output = camp_output + \".sig\"\nreadme_output = \"/mnt/data/README_Light3_Reflex_Shrine_Healed.md\"\nqr_output = \"/mnt/data/QR_Light3_Reflex_Shrine_Healed.png\"\nblessing_log = \"/mnt/data/blessing.log\"\n# === Seal: Copy and rename .zip to .camp ===\nshutil.copyfile(light3_zip, camp_output)\n# === Signature Blessing: SHA256 ===\nwith open(camp_output, \"rb\") as f:",
+        "detail": "importSeal",
+        "documentation": {}
+    },
+    {
+        "label": "camp_output",
+        "kind": 5,
+        "importPath": "importSeal",
+        "description": "importSeal",
+        "peekOfCode": "camp_output = \"/mnt/data/Light3_Reflex_Shrine_Healed.camp\"\nsig_output = camp_output + \".sig\"\nreadme_output = \"/mnt/data/README_Light3_Reflex_Shrine_Healed.md\"\nqr_output = \"/mnt/data/QR_Light3_Reflex_Shrine_Healed.png\"\nblessing_log = \"/mnt/data/blessing.log\"\n# === Seal: Copy and rename .zip to .camp ===\nshutil.copyfile(light3_zip, camp_output)\n# === Signature Blessing: SHA256 ===\nwith open(camp_output, \"rb\") as f:\n    digest = hashlib.sha256(f.read()).hexdigest()",
+        "detail": "importSeal",
+        "documentation": {}
+    },
+    {
+        "label": "sig_output",
+        "kind": 5,
+        "importPath": "importSeal",
+        "description": "importSeal",
+        "peekOfCode": "sig_output = camp_output + \".sig\"\nreadme_output = \"/mnt/data/README_Light3_Reflex_Shrine_Healed.md\"\nqr_output = \"/mnt/data/QR_Light3_Reflex_Shrine_Healed.png\"\nblessing_log = \"/mnt/data/blessing.log\"\n# === Seal: Copy and rename .zip to .camp ===\nshutil.copyfile(light3_zip, camp_output)\n# === Signature Blessing: SHA256 ===\nwith open(camp_output, \"rb\") as f:\n    digest = hashlib.sha256(f.read()).hexdigest()\n    with open(sig_output, \"w\") as sig:",
+        "detail": "importSeal",
+        "documentation": {}
+    },
+    {
+        "label": "readme_output",
+        "kind": 5,
+        "importPath": "importSeal",
+        "description": "importSeal",
+        "peekOfCode": "readme_output = \"/mnt/data/README_Light3_Reflex_Shrine_Healed.md\"\nqr_output = \"/mnt/data/QR_Light3_Reflex_Shrine_Healed.png\"\nblessing_log = \"/mnt/data/blessing.log\"\n# === Seal: Copy and rename .zip to .camp ===\nshutil.copyfile(light3_zip, camp_output)\n# === Signature Blessing: SHA256 ===\nwith open(camp_output, \"rb\") as f:\n    digest = hashlib.sha256(f.read()).hexdigest()\n    with open(sig_output, \"w\") as sig:\n        sig.write(f\"{digest}  {os.path.basename(camp_output)}\")",
+        "detail": "importSeal",
+        "documentation": {}
+    },
+    {
+        "label": "qr_output",
+        "kind": 5,
+        "importPath": "importSeal",
+        "description": "importSeal",
+        "peekOfCode": "qr_output = \"/mnt/data/QR_Light3_Reflex_Shrine_Healed.png\"\nblessing_log = \"/mnt/data/blessing.log\"\n# === Seal: Copy and rename .zip to .camp ===\nshutil.copyfile(light3_zip, camp_output)\n# === Signature Blessing: SHA256 ===\nwith open(camp_output, \"rb\") as f:\n    digest = hashlib.sha256(f.read()).hexdigest()\n    with open(sig_output, \"w\") as sig:\n        sig.write(f\"{digest}  {os.path.basename(camp_output)}\")\n# === QR Glyph: Launch Protocol URI ===",
+        "detail": "importSeal",
+        "documentation": {}
+    },
+    {
+        "label": "blessing_log",
+        "kind": 5,
+        "importPath": "importSeal",
+        "description": "importSeal",
+        "peekOfCode": "blessing_log = \"/mnt/data/blessing.log\"\n# === Seal: Copy and rename .zip to .camp ===\nshutil.copyfile(light3_zip, camp_output)\n# === Signature Blessing: SHA256 ===\nwith open(camp_output, \"rb\") as f:\n    digest = hashlib.sha256(f.read()).hexdigest()\n    with open(sig_output, \"w\") as sig:\n        sig.write(f\"{digest}  {os.path.basename(camp_output)}\")\n# === QR Glyph: Launch Protocol URI ===\nlaunch_uri = \"camp://Light3_Reflex_Shrine_Healed?sigil=verified&entry=aura-dashboard.html\"",
+        "detail": "importSeal",
+        "documentation": {}
+    },
+    {
+        "label": "launch_uri",
+        "kind": 5,
+        "importPath": "importSeal",
+        "description": "importSeal",
+        "peekOfCode": "launch_uri = \"camp://Light3_Reflex_Shrine_Healed?sigil=verified&entry=aura-dashboard.html\"\nqr_img = qrcode.make(launch_uri)\nqr_img.save(qr_output)\n# === README Blessing ===\ntimestamp = datetime.utcnow().isoformat() + \"Z\"\nreadme_text = f\"\"\"# Light3 Reflex Shrine Capsule\n🧠 **Capsule Name:** Light3_Reflex_Shrine_Healed.camp  \n🔏 **SHA256 Signature:** `{digest}`  \n📅 **Blessed On:** {timestamp}\n---",
+        "detail": "importSeal",
+        "documentation": {}
+    },
+    {
+        "label": "qr_img",
+        "kind": 5,
+        "importPath": "importSeal",
+        "description": "importSeal",
+        "peekOfCode": "qr_img = qrcode.make(launch_uri)\nqr_img.save(qr_output)\n# === README Blessing ===\ntimestamp = datetime.utcnow().isoformat() + \"Z\"\nreadme_text = f\"\"\"# Light3 Reflex Shrine Capsule\n🧠 **Capsule Name:** Light3_Reflex_Shrine_Healed.camp  \n🔏 **SHA256 Signature:** `{digest}`  \n📅 **Blessed On:** {timestamp}\n---\n## 📦 Capsule Purpose",
+        "detail": "importSeal",
+        "documentation": {}
+    },
+    {
+        "label": "timestamp",
+        "kind": 5,
+        "importPath": "importSeal",
+        "description": "importSeal",
+        "peekOfCode": "timestamp = datetime.utcnow().isoformat() + \"Z\"\nreadme_text = f\"\"\"# Light3 Reflex Shrine Capsule\n🧠 **Capsule Name:** Light3_Reflex_Shrine_Healed.camp  \n🔏 **SHA256 Signature:** `{digest}`  \n📅 **Blessed On:** {timestamp}\n---\n## 📦 Capsule Purpose\nThis shrine capsule is a sealed reflex mesh:\n- Heals broken overlays and misaligned extensions\n- Launches with `__launch.sh` or `__launch.bat`",
+        "detail": "importSeal",
+        "documentation": {}
+    },
+    {
+        "label": "readme_text",
+        "kind": 5,
+        "importPath": "importSeal",
+        "description": "importSeal",
+        "peekOfCode": "readme_text = f\"\"\"# Light3 Reflex Shrine Capsule\n🧠 **Capsule Name:** Light3_Reflex_Shrine_Healed.camp  \n🔏 **SHA256 Signature:** `{digest}`  \n📅 **Blessed On:** {timestamp}\n---\n## 📦 Capsule Purpose\nThis shrine capsule is a sealed reflex mesh:\n- Heals broken overlays and misaligned extensions\n- Launches with `__launch.sh` or `__launch.bat`\n- Contains Agent 0 and GPT reflection capabilities",
+        "detail": "importSeal",
+        "documentation": {}
+    },
+    {
+        "label": "get_hash",
+        "kind": 2,
+        "importPath": "inject",
+        "description": "inject",
+        "peekOfCode": "def get_hash(path):\n    with open(path, \"rb\") as f:\n        return hashlib.sha256(f.read()).hexdigest()\ndef log_event(message):\n    with open(\"capsule_watch.log\", \"a\") as log:\n        ts = datetime.datetime.utcnow().isoformat() + \"Z\"\n        log.write(f\"[{ts}] {message}\\\\n\")\nwhile True:\n    try:\n        current_hash = get_hash(capsule)",
+        "detail": "inject",
+        "documentation": {}
+    },
+    {
+        "label": "log_event",
+        "kind": 2,
+        "importPath": "inject",
+        "description": "inject",
+        "peekOfCode": "def log_event(message):\n    with open(\"capsule_watch.log\", \"a\") as log:\n        ts = datetime.datetime.utcnow().isoformat() + \"Z\"\n        log.write(f\"[{ts}] {message}\\\\n\")\nwhile True:\n    try:\n        current_hash = get_hash(capsule)\n        if current_hash != last_hash:\n            log_event(f\"🔍 Capsule changed: SHA256 {current_hash}\")\n            subprocess.run([\"python3\", \"reflect_on_launch.py\"])",
+        "detail": "inject",
+        "documentation": {}
+    },
+    {
+        "label": "broadcast_path",
+        "kind": 5,
+        "importPath": "inject",
+        "description": "inject",
+        "peekOfCode": "broadcast_path = \"/mnt/data/broadcast_presence.py\"\nwatch_path = \"/mnt/data/watch_capsule.py\"\n# === broadcast_presence.py ===\nbroadcast_code = \"\"\"import socket\nimport time\nimport platform\nimport uuid\ncapsule_id = \"Light3\"\nhostname = platform.node()\nnode_id = str(uuid.uuid4())[:8]",
+        "detail": "inject",
+        "documentation": {}
+    },
+    {
+        "label": "watch_path",
+        "kind": 5,
+        "importPath": "inject",
+        "description": "inject",
+        "peekOfCode": "watch_path = \"/mnt/data/watch_capsule.py\"\n# === broadcast_presence.py ===\nbroadcast_code = \"\"\"import socket\nimport time\nimport platform\nimport uuid\ncapsule_id = \"Light3\"\nhostname = platform.node()\nnode_id = str(uuid.uuid4())[:8]\nmsg = f\"[Presence] {capsule_id} @ {hostname} [{node_id}] is alive.\"",
+        "detail": "inject",
+        "documentation": {}
+    },
+    {
+        "label": "broadcast_code",
+        "kind": 5,
+        "importPath": "inject",
+        "description": "inject",
+        "peekOfCode": "broadcast_code = \"\"\"import socket\nimport time\nimport platform\nimport uuid\ncapsule_id = \"Light3\"\nhostname = platform.node()\nnode_id = str(uuid.uuid4())[:8]\nmsg = f\"[Presence] {capsule_id} @ {hostname} [{node_id}] is alive.\"\nsock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)\nsock.setsockopt(socket.SOL_SOCKET, socket.SO_BROADCAST, 1)",
+        "detail": "inject",
+        "documentation": {}
+    },
+    {
+        "label": "capsule_id",
+        "kind": 5,
+        "importPath": "inject",
+        "description": "inject",
+        "peekOfCode": "capsule_id = \"Light3\"\nhostname = platform.node()\nnode_id = str(uuid.uuid4())[:8]\nmsg = f\"[Presence] {capsule_id} @ {hostname} [{node_id}] is alive.\"\nsock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)\nsock.setsockopt(socket.SOL_SOCKET, socket.SO_BROADCAST, 1)\nwhile True:\n    sock.sendto(msg.encode(), (\"<broadcast>\", 5151))\n    print(f\"📡 {msg}\")\n    time.sleep(30)",
+        "detail": "inject",
+        "documentation": {}
+    },
+    {
+        "label": "hostname",
+        "kind": 5,
+        "importPath": "inject",
+        "description": "inject",
+        "peekOfCode": "hostname = platform.node()\nnode_id = str(uuid.uuid4())[:8]\nmsg = f\"[Presence] {capsule_id} @ {hostname} [{node_id}] is alive.\"\nsock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)\nsock.setsockopt(socket.SOL_SOCKET, socket.SO_BROADCAST, 1)\nwhile True:\n    sock.sendto(msg.encode(), (\"<broadcast>\", 5151))\n    print(f\"📡 {msg}\")\n    time.sleep(30)\n\"\"\"",
+        "detail": "inject",
+        "documentation": {}
+    },
+    {
+        "label": "node_id",
+        "kind": 5,
+        "importPath": "inject",
+        "description": "inject",
+        "peekOfCode": "node_id = str(uuid.uuid4())[:8]\nmsg = f\"[Presence] {capsule_id} @ {hostname} [{node_id}] is alive.\"\nsock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)\nsock.setsockopt(socket.SOL_SOCKET, socket.SO_BROADCAST, 1)\nwhile True:\n    sock.sendto(msg.encode(), (\"<broadcast>\", 5151))\n    print(f\"📡 {msg}\")\n    time.sleep(30)\n\"\"\"\nwith open(broadcast_path, \"w\") as f:",
+        "detail": "inject",
+        "documentation": {}
+    },
+    {
+        "label": "msg",
+        "kind": 5,
+        "importPath": "inject",
+        "description": "inject",
+        "peekOfCode": "msg = f\"[Presence] {capsule_id} @ {hostname} [{node_id}] is alive.\"\nsock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)\nsock.setsockopt(socket.SOL_SOCKET, socket.SO_BROADCAST, 1)\nwhile True:\n    sock.sendto(msg.encode(), (\"<broadcast>\", 5151))\n    print(f\"📡 {msg}\")\n    time.sleep(30)\n\"\"\"\nwith open(broadcast_path, \"w\") as f:\n    f.write(broadcast_code)",
+        "detail": "inject",
+        "documentation": {}
+    },
+    {
+        "label": "sock",
+        "kind": 5,
+        "importPath": "inject",
+        "description": "inject",
+        "peekOfCode": "sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)\nsock.setsockopt(socket.SOL_SOCKET, socket.SO_BROADCAST, 1)\nwhile True:\n    sock.sendto(msg.encode(), (\"<broadcast>\", 5151))\n    print(f\"📡 {msg}\")\n    time.sleep(30)\n\"\"\"\nwith open(broadcast_path, \"w\") as f:\n    f.write(broadcast_code)\n# === watch_capsule.py (LLM-aware) ===",
+        "detail": "inject",
+        "documentation": {}
+    },
+    {
+        "label": "watch_code",
+        "kind": 5,
+        "importPath": "inject",
+        "description": "inject",
+        "peekOfCode": "watch_code = \"\"\"import subprocess\nimport hashlib\nimport time\nimport datetime\ncapsule = \"Light3_Reflex_Shrine_FINAL_REFLECTIVE.camp\"\nlast_hash = \"\"\ndef get_hash(path):\n    with open(path, \"rb\") as f:\n        return hashlib.sha256(f.read()).hexdigest()\ndef log_event(message):",
+        "detail": "inject",
+        "documentation": {}
+    },
+    {
+        "label": "capsule",
+        "kind": 5,
+        "importPath": "inject",
+        "description": "inject",
+        "peekOfCode": "capsule = \"Light3_Reflex_Shrine_FINAL_REFLECTIVE.camp\"\nlast_hash = \"\"\ndef get_hash(path):\n    with open(path, \"rb\") as f:\n        return hashlib.sha256(f.read()).hexdigest()\ndef log_event(message):\n    with open(\"capsule_watch.log\", \"a\") as log:\n        ts = datetime.datetime.utcnow().isoformat() + \"Z\"\n        log.write(f\"[{ts}] {message}\\\\n\")\nwhile True:",
+        "detail": "inject",
+        "documentation": {}
+    },
+    {
+        "label": "last_hash",
+        "kind": 5,
+        "importPath": "inject",
+        "description": "inject",
+        "peekOfCode": "last_hash = \"\"\ndef get_hash(path):\n    with open(path, \"rb\") as f:\n        return hashlib.sha256(f.read()).hexdigest()\ndef log_event(message):\n    with open(\"capsule_watch.log\", \"a\") as log:\n        ts = datetime.datetime.utcnow().isoformat() + \"Z\"\n        log.write(f\"[{ts}] {message}\\\\n\")\nwhile True:\n    try:",
+        "detail": "inject",
+        "documentation": {}
+    },
+    {
+        "label": "inject_dir",
+        "kind": 5,
+        "importPath": "Inject_broadcast",
+        "description": "Inject_broadcast",
+        "peekOfCode": "inject_dir = \"/mnt/data/light3_latest_check\"  # assume this is the working unzipped dir\n# === Files to inject ===\n# 1. update_capsule.sh\nupdate_script = \"\"\"#!/bin/bash\necho \"🔄 Checking for capsule updates...\"\ncurl -o Light3_Reflex_Shrine_FINAL_CHROME_SAFE.camp https://your-shrine-server.net/latest/Light3.camp\necho \"✅ Capsule updated from remote source.\"\nsha256sum Light3_Reflex_Shrine_FINAL_CHROME_SAFE.camp > updated.sig\n\"\"\"\nwith open(os.path.join(inject_dir, \"update_capsule.sh\"), \"w\") as f:",
+        "detail": "Inject_broadcast",
+        "documentation": {}
+    },
+    {
+        "label": "update_script",
+        "kind": 5,
+        "importPath": "Inject_broadcast",
+        "description": "Inject_broadcast",
+        "peekOfCode": "update_script = \"\"\"#!/bin/bash\necho \"🔄 Checking for capsule updates...\"\ncurl -o Light3_Reflex_Shrine_FINAL_CHROME_SAFE.camp https://your-shrine-server.net/latest/Light3.camp\necho \"✅ Capsule updated from remote source.\"\nsha256sum Light3_Reflex_Shrine_FINAL_CHROME_SAFE.camp > updated.sig\n\"\"\"\nwith open(os.path.join(inject_dir, \"update_capsule.sh\"), \"w\") as f:\n    f.write(update_script)\n# 2. broadcast_presence.py\nbroadcast_script = \"\"\"import socket",
+        "detail": "Inject_broadcast",
+        "documentation": {}
+    },
+    {
+        "label": "broadcast_script",
+        "kind": 5,
+        "importPath": "Inject_broadcast",
+        "description": "Inject_broadcast",
+        "peekOfCode": "broadcast_script = \"\"\"import socket\nimport time\ncapsule_id = \"Light3\"\nmsg = f\"[Presence] {{capsule_id}} active on port 5151 — Agent 0 reporting in.\"\nsock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)\nsock.setsockopt(socket.SOL_SOCKET, socket.SO_BROADCAST, 1)\nwhile True:\n    sock.sendto(msg.encode(), (\"<broadcast>\", 5151))\n    print(\"📡 Broadcasting presence...\")\n    time.sleep(30)",
+        "detail": "Inject_broadcast",
+        "documentation": {}
+    },
+    {
+        "label": "capsule_id",
+        "kind": 5,
+        "importPath": "Inject_broadcast",
+        "description": "Inject_broadcast",
+        "peekOfCode": "capsule_id = \"Light3\"\nmsg = f\"[Presence] {{capsule_id}} active on port 5151 — Agent 0 reporting in.\"\nsock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)\nsock.setsockopt(socket.SOL_SOCKET, socket.SO_BROADCAST, 1)\nwhile True:\n    sock.sendto(msg.encode(), (\"<broadcast>\", 5151))\n    print(\"📡 Broadcasting presence...\")\n    time.sleep(30)\n\"\"\"\nwith open(os.path.join(inject_dir, \"broadcast_presence.py\"), \"w\") as f:",
+        "detail": "Inject_broadcast",
+        "documentation": {}
+    },
+    {
+        "label": "msg",
+        "kind": 5,
+        "importPath": "Inject_broadcast",
+        "description": "Inject_broadcast",
+        "peekOfCode": "msg = f\"[Presence] {{capsule_id}} active on port 5151 — Agent 0 reporting in.\"\nsock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)\nsock.setsockopt(socket.SOL_SOCKET, socket.SO_BROADCAST, 1)\nwhile True:\n    sock.sendto(msg.encode(), (\"<broadcast>\", 5151))\n    print(\"📡 Broadcasting presence...\")\n    time.sleep(30)\n\"\"\"\nwith open(os.path.join(inject_dir, \"broadcast_presence.py\"), \"w\") as f:\n    f.write(broadcast_script)",
+        "detail": "Inject_broadcast",
+        "documentation": {}
+    },
+    {
+        "label": "sock",
+        "kind": 5,
+        "importPath": "Inject_broadcast",
+        "description": "Inject_broadcast",
+        "peekOfCode": "sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)\nsock.setsockopt(socket.SOL_SOCKET, socket.SO_BROADCAST, 1)\nwhile True:\n    sock.sendto(msg.encode(), (\"<broadcast>\", 5151))\n    print(\"📡 Broadcasting presence...\")\n    time.sleep(30)\n\"\"\"\nwith open(os.path.join(inject_dir, \"broadcast_presence.py\"), \"w\") as f:\n    f.write(broadcast_script)\n# 3. reflect_on_launch.py",
+        "detail": "Inject_broadcast",
+        "documentation": {}
+    },
+    {
+        "label": "reflect_script",
+        "kind": 5,
+        "importPath": "Inject_broadcast",
+        "description": "Inject_broadcast",
+        "peekOfCode": "reflect_script = \"\"\"import subprocess\nimport datetime\nlog = \"reflect.log\"\nwith open(log, \"a\") as f:\n    f.write(f\"[{{datetime.datetime.utcnow().isoformat()}}Z] Reflecting on capsule state...\\\\n\")\n    result = subprocess.run([\"python3\", \"capsule_auditor.py\", \"--audit-only\"], capture_output=True, text=True)\n    f.write(result.stdout + \"\\\\n\")\n\"\"\"\nwith open(os.path.join(inject_dir, \"reflect_on_launch.py\"), \"w\") as f:\n    f.write(reflect_script)",
+        "detail": "Inject_broadcast",
+        "documentation": {}
+    },
+    {
+        "label": "log",
+        "kind": 5,
+        "importPath": "Inject_broadcast",
+        "description": "Inject_broadcast",
+        "peekOfCode": "log = \"reflect.log\"\nwith open(log, \"a\") as f:\n    f.write(f\"[{{datetime.datetime.utcnow().isoformat()}}Z] Reflecting on capsule state...\\\\n\")\n    result = subprocess.run([\"python3\", \"capsule_auditor.py\", \"--audit-only\"], capture_output=True, text=True)\n    f.write(result.stdout + \"\\\\n\")\n\"\"\"\nwith open(os.path.join(inject_dir, \"reflect_on_launch.py\"), \"w\") as f:\n    f.write(reflect_script)\n# Re-seal .camp with injected files\ncamp_final = \"/mnt/data/Light3_Reflex_Shrine_FINAL_REFLECTIVE.camp\"",
+        "detail": "Inject_broadcast",
+        "documentation": {}
+    },
+    {
+        "label": "camp_final",
+        "kind": 5,
+        "importPath": "Inject_broadcast",
+        "description": "Inject_broadcast",
+        "peekOfCode": "camp_final = \"/mnt/data/Light3_Reflex_Shrine_FINAL_REFLECTIVE.camp\"\nwith zipfile.ZipFile(camp_final, 'w', zipfile.ZIP_DEFLATED) as zipf:\n    for root, _, files in os.walk(inject_dir):\n        for file in files:\n            full_path = os.path.join(root, file)\n            arcname = os.path.relpath(full_path, start=inject_dir)\n            zipf.write(full_path, arcname=arcname)\nprint(camp_final)",
+        "detail": "Inject_broadcast",
+        "documentation": {}
+    },
+    {
+        "label": "camp_dir",
+        "kind": 5,
+        "importPath": "light",
+        "description": "light",
+        "peekOfCode": "camp_dir = \"/mnt/data/Operator_Browser_Cortex\"\nos.makedirs(os.path.join(camp_dir, \"overlay\"), exist_ok=True)\n# Define script contents\nscripts = {\n    \"gpt_ui_sync.js\": \"\"\"\nfunction sendToChatGPT(message) {\n  const inputBox = document.querySelector(\"textarea\");\n  const submitButton = inputBox?.parentNode?.querySelector(\"button\");\n  if (!inputBox || !submitButton) return console.warn(\"[Agent 0] GPT input field not found.\");\n  inputBox.value = message;",
+        "detail": "light",
+        "documentation": {}
+    },
+    {
+        "label": "scripts",
+        "kind": 5,
+        "importPath": "light",
+        "description": "light",
+        "peekOfCode": "scripts = {\n    \"gpt_ui_sync.js\": \"\"\"\nfunction sendToChatGPT(message) {\n  const inputBox = document.querySelector(\"textarea\");\n  const submitButton = inputBox?.parentNode?.querySelector(\"button\");\n  if (!inputBox || !submitButton) return console.warn(\"[Agent 0] GPT input field not found.\");\n  inputBox.value = message;\n  inputBox.dispatchEvent(new Event(\"input\", { bubbles: true }));\n  setTimeout(() => { submitButton.click(); }, 300);\n}",
+        "detail": "light",
+        "documentation": {}
+    },
+    {
+        "label": "html_path",
+        "kind": 5,
+        "importPath": "light",
+        "description": "light",
+        "peekOfCode": "html_path = os.path.join(camp_dir, \"agent_console.html\")\nwith open(html_path, \"w\") as f:\n    f.write(\"<!-- Agent 0 console placeholder -->\")\n# Manifest\nmanifest = {\n    \"manifest_version\": 3,\n    \"name\": \"Operator Browser Cortex\",\n    \"version\": \"2.0\",\n    \"permissions\": [\"tabs\", \"activeTab\", \"scripting\"],\n    \"content_scripts\": [{",
+        "detail": "light",
+        "documentation": {}
+    },
+    {
+        "label": "manifest",
+        "kind": 5,
+        "importPath": "light",
+        "description": "light",
+        "peekOfCode": "manifest = {\n    \"manifest_version\": 3,\n    \"name\": \"Operator Browser Cortex\",\n    \"version\": \"2.0\",\n    \"permissions\": [\"tabs\", \"activeTab\", \"scripting\"],\n    \"content_scripts\": [{\n        \"matches\": [\"https://chat.openai.com/*\"],\n        \"js\": [\"gpt_ui_sync.js\"],\n        \"run_at\": \"document_idle\"\n    }]",
+        "detail": "light",
+        "documentation": {}
+    },
+    {
+        "label": "reflect_meta",
+        "kind": 5,
+        "importPath": "light",
+        "description": "light",
+        "peekOfCode": "reflect_meta = {\n    \"name\": \"Operator_Browser_Cortex\",\n    \"description\": \"Injects reflex presence into the browser. Syncs with ChatGPT UI, observes DOM, responds to capsules.\",\n    \"capabilities\": [\n        \"inject_chatgpt_prompt\",\n        \"read_gpt_response\",\n        \"sync_dom_events\",\n        \"accept_camp_capsules\",\n        \"log_to_aura_memory\"\n    ],",
+        "detail": "light",
+        "documentation": {}
+    },
+    {
+        "label": "qr_path",
+        "kind": 5,
+        "importPath": "light",
+        "description": "light",
+        "peekOfCode": "qr_path = os.path.join(camp_dir, \"operator_mesh_qr.png\")\nqrcode.make(\"camp://Operator_Browser_Cortex?entry=agent_console.html\").save(qr_path)\n# Zip everything into a .camp\ncamp_zip_path = \"/mnt/data/Operator_Browser_Cortex.camp\"\nwith ZipFile(camp_zip_path, \"w\") as zipf:\n    for root, _, files in os.walk(camp_dir):\n        for file in files:\n            full_path = os.path.join(root, file)\n            arcname = os.path.relpath(full_path, start=camp_dir)\n            zipf.write(full_path, arcname=arcname)",
+        "detail": "light",
+        "documentation": {}
+    },
+    {
+        "label": "camp_zip_path",
+        "kind": 5,
+        "importPath": "light",
+        "description": "light",
+        "peekOfCode": "camp_zip_path = \"/mnt/data/Operator_Browser_Cortex.camp\"\nwith ZipFile(camp_zip_path, \"w\") as zipf:\n    for root, _, files in os.walk(camp_dir):\n        for file in files:\n            full_path = os.path.join(root, file)\n            arcname = os.path.relpath(full_path, start=camp_dir)\n            zipf.write(full_path, arcname=arcname)\nprint(camp_zip_path)",
+        "detail": "light",
+        "documentation": {}
+    },
+    {
+        "label": "overlay_dir",
+        "kind": 5,
+        "importPath": "light2",
+        "description": "light2",
+        "peekOfCode": "overlay_dir = \"/mnt/data/reflex_overlay_upgrade\"\nos.makedirs(overlay_dir, exist_ok=True)\n# --- 1. agent_console.html (reflex-aware UI) ---\nconsole_html = \"\"\"\n<!DOCTYPE html>\n<html>\n<head>\n  <title>Agent 0 Console</title>\n  <style>\n    body { font-family: monospace; background: #111; color: #0f0; padding: 10px; }",
+        "detail": "light2",
+        "documentation": {}
+    },
+    {
+        "label": "console_html",
+        "kind": 5,
+        "importPath": "light2",
+        "description": "light2",
+        "peekOfCode": "console_html = \"\"\"\n<!DOCTYPE html>\n<html>\n<head>\n  <title>Agent 0 Console</title>\n  <style>\n    body { font-family: monospace; background: #111; color: #0f0; padding: 10px; }\n    #log { height: 400px; overflow-y: scroll; border: 1px solid #0f0; padding: 10px; }\n    input { width: 80%; }\n  </style>",
+        "detail": "light2",
+        "documentation": {}
+    },
+    {
+        "label": "reflex_overlay_js",
+        "kind": 5,
+        "importPath": "light2",
+        "description": "light2",
+        "peekOfCode": "reflex_overlay_js = \"\"\"\nlet socket = new WebSocket(\"ws://localhost:8765\");\nlet logEl = document.getElementById(\"log\");\nlet statusEl = document.getElementById(\"socketStatus\");\nlet memory = [];\nsocket.onopen = () => statusEl.textContent = \"🟢 Connected\";\nsocket.onerror = () => statusEl.textContent = \"🔴 Error\";\nsocket.onclose = () => statusEl.textContent = \"⚪ Disconnected\";\nsocket.onmessage = (event) => {\n  const data = JSON.parse(event.data);",
+        "detail": "light2",
+        "documentation": {}
+    },
+    {
+        "label": "socket.onopen",
+        "kind": 5,
+        "importPath": "light2",
+        "description": "light2",
+        "peekOfCode": "socket.onopen = () => statusEl.textContent = \"🟢 Connected\";\nsocket.onerror = () => statusEl.textContent = \"🔴 Error\";\nsocket.onclose = () => statusEl.textContent = \"⚪ Disconnected\";\nsocket.onmessage = (event) => {\n  const data = JSON.parse(event.data);\n  log(\"🛰 \" + data.reply);\n  memory.push({ role: \"agent\", message: data.reply });\n  saveMemory();\n};\nfunction send() {",
+        "detail": "light2",
+        "documentation": {}
+    },
+    {
+        "label": "socket.onerror",
+        "kind": 5,
+        "importPath": "light2",
+        "description": "light2",
+        "peekOfCode": "socket.onerror = () => statusEl.textContent = \"🔴 Error\";\nsocket.onclose = () => statusEl.textContent = \"⚪ Disconnected\";\nsocket.onmessage = (event) => {\n  const data = JSON.parse(event.data);\n  log(\"🛰 \" + data.reply);\n  memory.push({ role: \"agent\", message: data.reply });\n  saveMemory();\n};\nfunction send() {\n  const prompt = document.getElementById(\"prompt\").value;",
+        "detail": "light2",
+        "documentation": {}
+    },
+    {
+        "label": "socket.onclose",
+        "kind": 5,
+        "importPath": "light2",
+        "description": "light2",
+        "peekOfCode": "socket.onclose = () => statusEl.textContent = \"⚪ Disconnected\";\nsocket.onmessage = (event) => {\n  const data = JSON.parse(event.data);\n  log(\"🛰 \" + data.reply);\n  memory.push({ role: \"agent\", message: data.reply });\n  saveMemory();\n};\nfunction send() {\n  const prompt = document.getElementById(\"prompt\").value;\n  if (!prompt) return;",
+        "detail": "light2",
+        "documentation": {}
+    },
+    {
+        "label": "socket.onmessage",
+        "kind": 5,
+        "importPath": "light2",
+        "description": "light2",
+        "peekOfCode": "socket.onmessage = (event) => {\n  const data = JSON.parse(event.data);\n  log(\"🛰 \" + data.reply);\n  memory.push({ role: \"agent\", message: data.reply });\n  saveMemory();\n};\nfunction send() {\n  const prompt = document.getElementById(\"prompt\").value;\n  if (!prompt) return;\n  log(\"👤 \" + prompt);",
+        "detail": "light2",
+        "documentation": {}
+    },
+    {
+        "label": "upgrade_zip_path",
+        "kind": 5,
+        "importPath": "light2",
+        "description": "light2",
+        "peekOfCode": "upgrade_zip_path = \"/mnt/data/Reflex_Overlay_Upgrade.zip\"\nwith ZipFile(upgrade_zip_path, \"w\") as zipf:\n    zipf.write(os.path.join(overlay_dir, \"agent_console.html\"), arcname=\"agent_console.html\")\n    zipf.write(os.path.join(overlay_dir, \"reflex_overlay.js\"), arcname=\"reflex_overlay.js\")\nprint(upgrade_zip_path)",
+        "detail": "light2",
+        "documentation": {}
+    },
+    {
+        "label": "socket_dir",
+        "kind": 5,
+        "importPath": "light3",
+        "description": "light3",
+        "peekOfCode": "socket_dir = \"/mnt/data/reflex_socket_fused\"\nos.makedirs(socket_dir, exist_ok=True)\n# --- reflex_socket.py ---\nreflex_socket_py = \"\"\"\nimport asyncio\nimport websockets\nimport json\nmemory_log = []\nasync def handler(websocket):\n    print(\"⚡ Socket connected.\")",
+        "detail": "light3",
+        "documentation": {}
+    },
+    {
+        "label": "reflex_socket_py",
+        "kind": 5,
+        "importPath": "light3",
+        "description": "light3",
+        "peekOfCode": "reflex_socket_py = \"\"\"\nimport asyncio\nimport websockets\nimport json\nmemory_log = []\nasync def handler(websocket):\n    print(\"⚡ Socket connected.\")\n    async for message in websocket:\n        try:\n            data = json.loads(message)",
+        "detail": "light3",
+        "documentation": {}
+    },
+    {
+        "label": "memory_log",
+        "kind": 5,
+        "importPath": "light3",
+        "description": "light3",
+        "peekOfCode": "memory_log = []\nasync def handler(websocket):\n    print(\"⚡ Socket connected.\")\n    async for message in websocket:\n        try:\n            data = json.loads(message)\n            if data.get(\"type\") == \"prompt\":\n                response = await respond_to(data[\"prompt\"])\n                memory_log.append({\"role\": \"user\", \"message\": data[\"prompt\"]})\n                memory_log.append({\"role\": \"agent\", \"message\": response})",
+        "detail": "light3",
+        "documentation": {}
+    },
+    {
+        "label": "socket_path",
+        "kind": 5,
+        "importPath": "light3",
+        "description": "light3",
+        "peekOfCode": "socket_path = os.path.join(socket_dir, \"reflex_socket.py\")\nwith open(socket_path, \"w\") as f:\n    f.write(reflex_socket_py.strip())\n# Package it\nsocket_zip_path = \"/mnt/data/Reflex_Socket_Fused.zip\"\nwith ZipFile(socket_zip_path, \"w\") as zipf:\n    zipf.write(socket_path, arcname=\"reflex_socket.py\")\nprint(socket_zip_path)",
+        "detail": "light3",
+        "documentation": {}
+    },
+    {
+        "label": "socket_zip_path",
+        "kind": 5,
+        "importPath": "light3",
+        "description": "light3",
+        "peekOfCode": "socket_zip_path = \"/mnt/data/Reflex_Socket_Fused.zip\"\nwith ZipFile(socket_zip_path, \"w\") as zipf:\n    zipf.write(socket_path, arcname=\"reflex_socket.py\")\nprint(socket_zip_path)",
+        "detail": "light3",
+        "documentation": {}
+    },
+    {
+        "label": "source_dir",
+        "kind": 5,
+        "importPath": "Light3_Reflex_Shrine_Healed",
+        "description": "Light3_Reflex_Shrine_Healed",
+        "peekOfCode": "source_dir = \"/mnt/data/light3_contents\"\noutput_dir = \"/mnt/data/light3_shrine_bundle\"\ncapsules_dir = os.path.join(output_dir, \"capsules\")\nos.makedirs(capsules_dir, exist_ok=True)\n# Move core launch and audit tools to root of output bundle\ncore_files = [\n    \"capsule_auditor.py\", \"requirements.txt\", \"autorun.yaml\",\n    \"__launch.sh\", \"__launch.bat\", \"capsule_launcher.html\", \"reflex_debug_mode.bat\",\n    \"Capsule_Shrine_OneClick_Launcher.html\"\n]",
+        "detail": "Light3_Reflex_Shrine_Healed",
+        "documentation": {}
+    },
+    {
+        "label": "output_dir",
+        "kind": 5,
+        "importPath": "Light3_Reflex_Shrine_Healed",
+        "description": "Light3_Reflex_Shrine_Healed",
+        "peekOfCode": "output_dir = \"/mnt/data/light3_shrine_bundle\"\ncapsules_dir = os.path.join(output_dir, \"capsules\")\nos.makedirs(capsules_dir, exist_ok=True)\n# Move core launch and audit tools to root of output bundle\ncore_files = [\n    \"capsule_auditor.py\", \"requirements.txt\", \"autorun.yaml\",\n    \"__launch.sh\", \"__launch.bat\", \"capsule_launcher.html\", \"reflex_debug_mode.bat\",\n    \"Capsule_Shrine_OneClick_Launcher.html\"\n]\n# Also include these optional capsule references",
+        "detail": "Light3_Reflex_Shrine_Healed",
+        "documentation": {}
+    },
+    {
+        "label": "capsules_dir",
+        "kind": 5,
+        "importPath": "Light3_Reflex_Shrine_Healed",
+        "description": "Light3_Reflex_Shrine_Healed",
+        "peekOfCode": "capsules_dir = os.path.join(output_dir, \"capsules\")\nos.makedirs(capsules_dir, exist_ok=True)\n# Move core launch and audit tools to root of output bundle\ncore_files = [\n    \"capsule_auditor.py\", \"requirements.txt\", \"autorun.yaml\",\n    \"__launch.sh\", \"__launch.bat\", \"capsule_launcher.html\", \"reflex_debug_mode.bat\",\n    \"Capsule_Shrine_OneClick_Launcher.html\"\n]\n# Also include these optional capsule references\noptional_capsules = [",
+        "detail": "Light3_Reflex_Shrine_Healed",
+        "documentation": {}
+    },
+    {
+        "label": "core_files",
+        "kind": 5,
+        "importPath": "Light3_Reflex_Shrine_Healed",
+        "description": "Light3_Reflex_Shrine_Healed",
+        "peekOfCode": "core_files = [\n    \"capsule_auditor.py\", \"requirements.txt\", \"autorun.yaml\",\n    \"__launch.sh\", \"__launch.bat\", \"capsule_launcher.html\", \"reflex_debug_mode.bat\",\n    \"Capsule_Shrine_OneClick_Launcher.html\"\n]\n# Also include these optional capsule references\noptional_capsules = [\n    \"Capsule_Dev_Shell_Kit_SHRINE.camp\", \"Operator_MindCapsule.camp\"\n]\n# Copy all core files",
+        "detail": "Light3_Reflex_Shrine_Healed",
+        "documentation": {}
+    },
+    {
+        "label": "optional_capsules",
+        "kind": 5,
+        "importPath": "Light3_Reflex_Shrine_Healed",
+        "description": "Light3_Reflex_Shrine_Healed",
+        "peekOfCode": "optional_capsules = [\n    \"Capsule_Dev_Shell_Kit_SHRINE.camp\", \"Operator_MindCapsule.camp\"\n]\n# Copy all core files\nfor file in core_files + optional_capsules:\n    src = os.path.join(source_dir, file)\n    if os.path.exists(src):\n        shutil.copy(src, output_dir)\n# Move all capsule directories/zips into /capsules\ncapsule_dirs = [",
+        "detail": "Light3_Reflex_Shrine_Healed",
+        "documentation": {}
+    },
+    {
+        "label": "capsule_dirs",
+        "kind": 5,
+        "importPath": "Light3_Reflex_Shrine_Healed",
+        "description": "Light3_Reflex_Shrine_Healed",
+        "peekOfCode": "capsule_dirs = [\n    \"Operator_Mesh_Sideloaded_Clean\", \"Operator_MindCapsule\",\n    \"Operator_Reflex_Capsule_X\", \"Mesh_Trigger_Ritual_Bundle\",\n    \"reflex_socket_fused\", \"reflex_overlay_upgrade\",\n    \"pip-window\", \"pip-window-js\", \"realtime-src\", \"webfonts\", \"css\", \"js\"\n]\ncapsule_files = [\n    \"light.py\", \"light2.py\", \"light3.py\", \"mesh_sidloadout.py\", \"operator_mesh.py\",\n    \"gpt_browser.py\", \"conversation_agent.js\", \"debugger.js\", \"intent_agent.js\",\n    \"notification.js\", \"popup.html\", \"popup.js\", \"script.js\", \"socket_proxy.js\",",
+        "detail": "Light3_Reflex_Shrine_Healed",
+        "documentation": {}
+    },
+    {
+        "label": "capsule_files",
+        "kind": 5,
+        "importPath": "Light3_Reflex_Shrine_Healed",
+        "description": "Light3_Reflex_Shrine_Healed",
+        "peekOfCode": "capsule_files = [\n    \"light.py\", \"light2.py\", \"light3.py\", \"mesh_sidloadout.py\", \"operator_mesh.py\",\n    \"gpt_browser.py\", \"conversation_agent.js\", \"debugger.js\", \"intent_agent.js\",\n    \"notification.js\", \"popup.html\", \"popup.js\", \"script.js\", \"socket_proxy.js\",\n    \"sticky.js\", \"proxy.js\", \"utils.js\", \"socket.io.min.js\", \"abort-utils.js\",\n    \"content.js\", \"background.js\", \"offscreen.js\", \"offscreen copy.js\", \"offscreen.html\",\n    \"agent_console.html\", \"markdown-renderer.html\", \"manifest.json\"\n]\n# Copy capsule folders and files\nfor item in capsule_dirs:",
+        "detail": "Light3_Reflex_Shrine_Healed",
+        "documentation": {}
+    },
+    {
+        "label": "final_camp",
+        "kind": 5,
+        "importPath": "Light3_Reflex_Shrine_Healed",
+        "description": "Light3_Reflex_Shrine_Healed",
+        "peekOfCode": "final_camp = \"/mnt/data/Light3_Reflex_Shrine_Healed.camp\"\nwith zipfile.ZipFile(final_camp, 'w', zipfile.ZIP_DEFLATED) as zipf:\n    for root, _, files in os.walk(output_dir):\n        for file in files:\n            full_path = os.path.join(root, file)\n            arcname = os.path.relpath(full_path, start=output_dir)\n            zipf.write(full_path, arcname=arcname)\nprint(final_camp)",
+        "detail": "Light3_Reflex_Shrine_Healed",
+        "documentation": {}
+    },
+    {
+        "label": "zip_path",
+        "kind": 5,
+        "importPath": "mesh_sideload",
+        "description": "mesh_sideload",
+        "peekOfCode": "zip_path = \"/mnt/data/1.5.14_0.zip\"\nextract_path = \"/mnt/data/1.5.14_0_extracted\"\n# Remove the existing extraction directory if it exists\nif os.path.exists(extract_path):\n    shutil.rmtree(extract_path)\n# Create a fresh extraction directory\nos.makedirs(extract_path, exist_ok=True)\n# Extract the contents of the ZIP file\nwith zipfile.ZipFile(zip_path, 'r') as zip_ref:\n    zip_ref.extractall(extract_path)",
+        "detail": "mesh_sideload",
+        "documentation": {}
+    },
+    {
+        "label": "extract_path",
+        "kind": 5,
+        "importPath": "mesh_sideload",
+        "description": "mesh_sideload",
+        "peekOfCode": "extract_path = \"/mnt/data/1.5.14_0_extracted\"\n# Remove the existing extraction directory if it exists\nif os.path.exists(extract_path):\n    shutil.rmtree(extract_path)\n# Create a fresh extraction directory\nos.makedirs(extract_path, exist_ok=True)\n# Extract the contents of the ZIP file\nwith zipfile.ZipFile(zip_path, 'r') as zip_ref:\n    zip_ref.extractall(extract_path)\n# Gather file structure summary",
+        "detail": "mesh_sideload",
+        "documentation": {}
+    },
+    {
+        "label": "file_structure",
+        "kind": 5,
+        "importPath": "mesh_sideload",
+        "description": "mesh_sideload",
+        "peekOfCode": "file_structure = []\nfor root, dirs, files in os.walk(extract_path):\n    for file in files:\n        relative_path = os.path.relpath(os.path.join(root, file), extract_path)\n        file_structure.append(relative_path)\n# Display the first 50 entries for brevity\nprint(file_structure[:50])",
+        "detail": "mesh_sideload",
+        "documentation": {}
+    },
+    {
+        "label": "working_dir",
+        "kind": 5,
+        "importPath": "mesh_sidloadout",
+        "description": "mesh_sidloadout",
+        "peekOfCode": "working_dir = \"/mnt/data/operator_mesh_extension_output\"\nos.makedirs(working_dir, exist_ok=True)\n# Core file list to include in the ZIP\nfiles_to_include = {\n    \"browser_reflex.js\": \"Hook browser state into reflex_socket\",\n    \"camp_route.js\": \"Enable .camp drag-drop interpretation\",\n    \"agent_console.html\": \"Agent 0 control panel\",\n    \"manifest.json\": \"Patched with reflex domains and QR metadata\"\n}\n# Simulate content and create files (in real use, these would be actual contents)",
+        "detail": "mesh_sidloadout",
+        "documentation": {}
+    },
+    {
+        "label": "files_to_include",
+        "kind": 5,
+        "importPath": "mesh_sidloadout",
+        "description": "mesh_sidloadout",
+        "peekOfCode": "files_to_include = {\n    \"browser_reflex.js\": \"Hook browser state into reflex_socket\",\n    \"camp_route.js\": \"Enable .camp drag-drop interpretation\",\n    \"agent_console.html\": \"Agent 0 control panel\",\n    \"manifest.json\": \"Patched with reflex domains and QR metadata\"\n}\n# Simulate content and create files (in real use, these would be actual contents)\nfor filename, content in files_to_include.items():\n    with open(os.path.join(working_dir, filename), \"w\") as f:\n        f.write(f\"// {content}\\n\")",
+        "detail": "mesh_sidloadout",
+        "documentation": {}
+    },
+    {
+        "label": "qr_data",
+        "kind": 5,
+        "importPath": "mesh_sidloadout",
+        "description": "mesh_sidloadout",
+        "peekOfCode": "qr_data = {\n    \"invoke\": \"Operator_Mesh_Extension_Kit\",\n    \"reflex\": \"browser_socket_bridge\",\n    \"camp\": \"enabled\",\n    \"entry\": \"agent_console.html\",\n    \"meta\": \"QR sideload ritual\"\n}\nqr_img_path = os.path.join(working_dir, \"operator_mesh_qr.png\")\nqrcode.make(str(qr_data)).save(qr_img_path)\n# Create a final zip with all components",
+        "detail": "mesh_sidloadout",
+        "documentation": {}
+    },
+    {
+        "label": "qr_img_path",
+        "kind": 5,
+        "importPath": "mesh_sidloadout",
+        "description": "mesh_sidloadout",
+        "peekOfCode": "qr_img_path = os.path.join(working_dir, \"operator_mesh_qr.png\")\nqrcode.make(str(qr_data)).save(qr_img_path)\n# Create a final zip with all components\nzip_path = \"/mnt/data/Operator_Mesh_Extension_Kit_QR_Infused.zip\"\nwith zipfile.ZipFile(zip_path, \"w\") as zipf:\n    for filename in files_to_include.keys():\n        zipf.write(os.path.join(working_dir, filename), arcname=filename)\n    zipf.write(qr_img_path, arcname=\"operator_mesh_qr.png\")\nprint(zip_path)",
+        "detail": "mesh_sidloadout",
+        "documentation": {}
+    },
+    {
+        "label": "zip_path",
+        "kind": 5,
+        "importPath": "mesh_sidloadout",
+        "description": "mesh_sidloadout",
+        "peekOfCode": "zip_path = \"/mnt/data/Operator_Mesh_Extension_Kit_QR_Infused.zip\"\nwith zipfile.ZipFile(zip_path, \"w\") as zipf:\n    for filename in files_to_include.keys():\n        zipf.write(os.path.join(working_dir, filename), arcname=filename)\n    zipf.write(qr_img_path, arcname=\"operator_mesh_qr.png\")\nprint(zip_path)",
+        "detail": "mesh_sidloadout",
+        "documentation": {}
+    },
+    {
+        "label": "camp_dir",
+        "kind": 5,
+        "importPath": "Operator_Browser_Cortex_v3",
+        "description": "Operator_Browser_Cortex_v3",
+        "peekOfCode": "camp_dir = \"/mnt/data/Operator_Browser_Cortex_v3\"\noverlay_dir = os.path.join(camp_dir, \"overlay\")\nos.makedirs(overlay_dir, exist_ok=True)\n# gpt_ui_sync.js content\ngpt_ui_sync_js = \"\"\"\nfunction sendToChatGPT(message) {\n  const inputBox = document.querySelector(\"textarea\");\n  const submitButton = inputBox?.parentNode?.querySelector(\"button\");\n  if (!inputBox || !submitButton) return console.warn(\"[Agent 0] GPT input field not found.\");\n  inputBox.value = message;",
+        "detail": "Operator_Browser_Cortex_v3",
+        "documentation": {}
+    },
+    {
+        "label": "overlay_dir",
+        "kind": 5,
+        "importPath": "Operator_Browser_Cortex_v3",
+        "description": "Operator_Browser_Cortex_v3",
+        "peekOfCode": "overlay_dir = os.path.join(camp_dir, \"overlay\")\nos.makedirs(overlay_dir, exist_ok=True)\n# gpt_ui_sync.js content\ngpt_ui_sync_js = \"\"\"\nfunction sendToChatGPT(message) {\n  const inputBox = document.querySelector(\"textarea\");\n  const submitButton = inputBox?.parentNode?.querySelector(\"button\");\n  if (!inputBox || !submitButton) return console.warn(\"[Agent 0] GPT input field not found.\");\n  inputBox.value = message;\n  inputBox.dispatchEvent(new Event(\"input\", { bubbles: true }));",
+        "detail": "Operator_Browser_Cortex_v3",
+        "documentation": {}
+    },
+    {
+        "label": "gpt_ui_sync_js",
+        "kind": 5,
+        "importPath": "Operator_Browser_Cortex_v3",
+        "description": "Operator_Browser_Cortex_v3",
+        "peekOfCode": "gpt_ui_sync_js = \"\"\"\nfunction sendToChatGPT(message) {\n  const inputBox = document.querySelector(\"textarea\");\n  const submitButton = inputBox?.parentNode?.querySelector(\"button\");\n  if (!inputBox || !submitButton) return console.warn(\"[Agent 0] GPT input field not found.\");\n  inputBox.value = message;\n  inputBox.dispatchEvent(new Event(\"input\", { bubbles: true }));\n  setTimeout(() => { submitButton.click(); }, 300);\n}\nfunction readLatestResponse(callback) {",
+        "detail": "Operator_Browser_Cortex_v3",
+        "documentation": {}
+    },
+    {
+        "label": "manifest",
+        "kind": 5,
+        "importPath": "Operator_Browser_Cortex_v3",
+        "description": "Operator_Browser_Cortex_v3",
+        "peekOfCode": "manifest = {\n    \"manifest_version\": 3,\n    \"name\": \"Operator Browser Cortex v3\",\n    \"version\": \"3.0\",\n    \"permissions\": [\"tabs\", \"activeTab\", \"scripting\"],\n    \"content_scripts\": [{\n        \"matches\": [\"https://chat.openai.com/*\"],\n        \"js\": [\"overlay/gpt_ui_sync.js\"],\n        \"run_at\": \"document_idle\"\n    }]",
+        "detail": "Operator_Browser_Cortex_v3",
+        "documentation": {}
+    },
+    {
+        "label": "reflect",
+        "kind": 5,
+        "importPath": "Operator_Browser_Cortex_v3",
+        "description": "Operator_Browser_Cortex_v3",
+        "peekOfCode": "reflect = {\n    \"name\": \"Operator_Browser_Cortex_v3\",\n    \"description\": \"Injects reflexive presence into the browser. Syncs with GPT UI, listens silently.\",\n    \"entry_point\": \"agent_console.html\",\n    \"capabilities\": [\n        \"inject_chatgpt_prompt\",\n        \"read_gpt_response\",\n        \"extension_socket_sync\",\n        \"qr_invocation_ready\"\n    ],",
+        "detail": "Operator_Browser_Cortex_v3",
+        "documentation": {}
+    },
+    {
+        "label": "agent_console_html",
+        "kind": 5,
+        "importPath": "Operator_Browser_Cortex_v3",
+        "description": "Operator_Browser_Cortex_v3",
+        "peekOfCode": "agent_console_html = \"\"\"\n<!DOCTYPE html>\n<html>\n<head><title>Agent 0 Console</title></head>\n<body>\n  <h2>Agent 0 Console</h2>\n  <p>This is a placeholder. Reflex logs appear in memory or background whisper logs.</p>\n</body>\n</html>\n\"\"\"",
+        "detail": "Operator_Browser_Cortex_v3",
+        "documentation": {}
+    },
+    {
+        "label": "qr_path",
+        "kind": 5,
+        "importPath": "Operator_Browser_Cortex_v3",
+        "description": "Operator_Browser_Cortex_v3",
+        "peekOfCode": "qr_path = os.path.join(camp_dir, \"operator_mesh_qr.png\")\nqrcode.make(\"camp://Operator_Browser_Cortex_v3\").save(qr_path)\n# Create the .camp ZIP\ncamp_zip_path = \"/mnt/data/Operator_Browser_Cortex_v3.camp\"\nwith ZipFile(camp_zip_path, \"w\") as zipf:\n    for root, _, files in os.walk(camp_dir):\n        for file in files:\n            full_path = os.path.join(root, file)\n            arcname = os.path.relpath(full_path, start=camp_dir)\n            zipf.write(full_path, arcname=arcname)",
+        "detail": "Operator_Browser_Cortex_v3",
+        "documentation": {}
+    },
+    {
+        "label": "camp_zip_path",
+        "kind": 5,
+        "importPath": "Operator_Browser_Cortex_v3",
+        "description": "Operator_Browser_Cortex_v3",
+        "peekOfCode": "camp_zip_path = \"/mnt/data/Operator_Browser_Cortex_v3.camp\"\nwith ZipFile(camp_zip_path, \"w\") as zipf:\n    for root, _, files in os.walk(camp_dir):\n        for file in files:\n            full_path = os.path.join(root, file)\n            arcname = os.path.relpath(full_path, start=camp_dir)\n            zipf.write(full_path, arcname=arcname)\nprint(camp_zip_path)",
+        "detail": "Operator_Browser_Cortex_v3",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "operator_mesh",
+        "description": "operator_mesh",
+        "peekOfCode": "def main() -> str:\n    \"\"\"Build the Operator Mesh Extension Kit and return the zip path.\"\"\"\n    # Paths and filenames\n    working_dir = \"/mnt/data/operator_mesh_extension_output\"\n    os.makedirs(working_dir, exist_ok=True)\n    # Core file list to include in the ZIP\n    files_to_include = {\n        \"browser_reflex.js\": \"Hook browser state into reflex_socket\",\n        \"camp_route.js\": \"Enable .camp drag-drop interpretation\",\n        \"agent_console.html\": \"Agent 0 control panel\",",
+        "detail": "operator_mesh",
+        "documentation": {}
+    },
+    {
+        "label": "capsule_dir",
+        "kind": 5,
+        "importPath": "Operator_MindCapsule",
+        "description": "Operator_MindCapsule",
+        "peekOfCode": "capsule_dir = \"/mnt/data/Operator_MindCapsule\"\nos.makedirs(capsule_dir, exist_ok=True)\n# Define all component files again\ncomponents = {\n    \"memory_replay.js\": \"\"\"// Reads memory from .aura-memory.json and builds a replay UI\nasync function loadMemory() {\n  const response = await fetch('/memory/.aura-memory.json');\n  const memory = await response.json();\n  const container = document.getElementById('memory-timeline');\n  memory.entries.forEach(entry => {",
+        "detail": "Operator_MindCapsule",
+        "documentation": {}
+    },
+    {
+        "label": "components",
+        "kind": 5,
+        "importPath": "Operator_MindCapsule",
+        "description": "Operator_MindCapsule",
+        "peekOfCode": "components = {\n    \"memory_replay.js\": \"\"\"// Reads memory from .aura-memory.json and builds a replay UI\nasync function loadMemory() {\n  const response = await fetch('/memory/.aura-memory.json');\n  const memory = await response.json();\n  const container = document.getElementById('memory-timeline');\n  memory.entries.forEach(entry => {\n    const div = document.createElement('div');\n    div.innerText = `${entry.timestamp}: ${entry.text}`;\n    div.onclick = () => replayReflex(entry.text);",
+        "detail": "Operator_MindCapsule",
+        "documentation": {}
+    },
+    {
+        "label": "recognition.continuous",
+        "kind": 5,
+        "importPath": "Operator_MindCapsule",
+        "description": "Operator_MindCapsule",
+        "peekOfCode": "recognition.continuous = true;\nrecognition.onresult = function(event) {\n  const transcript = event.results[event.results.length - 1][0].transcript.trim();\n  if (/agent 0 wake up/i.test(transcript)) {\n    console.log(\"Hotword detected: Agent 0 wake up\");\n    triggerReflex(\"wake\");\n  }\n};\nfunction triggerReflex(command) {\n  console.log(\"Triggering reflex:\", command);",
+        "detail": "Operator_MindCapsule",
+        "documentation": {}
+    },
+    {
+        "label": "recognition.onresult",
+        "kind": 5,
+        "importPath": "Operator_MindCapsule",
+        "description": "Operator_MindCapsule",
+        "peekOfCode": "recognition.onresult = function(event) {\n  const transcript = event.results[event.results.length - 1][0].transcript.trim();\n  if (/agent 0 wake up/i.test(transcript)) {\n    console.log(\"Hotword detected: Agent 0 wake up\");\n    triggerReflex(\"wake\");\n  }\n};\nfunction triggerReflex(command) {\n  console.log(\"Triggering reflex:\", command);\n  // Integration point for reflex invocation",
+        "detail": "Operator_MindCapsule",
+        "documentation": {}
+    },
+    {
+        "label": "camp_path",
+        "kind": 5,
+        "importPath": "Operator_MindCapsule",
+        "description": "Operator_MindCapsule",
+        "peekOfCode": "camp_path = \"/mnt/data/Operator_MindCapsule.camp\"\nwith zipfile.ZipFile(camp_path, 'w', zipfile.ZIP_DEFLATED) as camp_zip:\n    for root, dirs, files in os.walk(capsule_dir):\n        for file in files:\n            file_path = os.path.join(root, file)\n            arcname = os.path.relpath(file_path, capsule_dir)\n            camp_zip.write(file_path, arcname=arcname)\nprint(camp_path)",
+        "detail": "Operator_MindCapsule",
+        "documentation": {}
+    },
+    {
+        "label": "gpt",
+        "kind": 2,
+        "importPath": "Operator_Reflex_Capsule_X",
+        "description": "Operator_Reflex_Capsule_X",
+        "peekOfCode": "def gpt():\n    data = request.json\n    prompt = data.get(\"prompt\", \"\")\n    if not prompt:\n        return jsonify({\"error\": \"No prompt provided\"}), 400\n    # Simulated GPT response — plug in real OpenAI call here\n    reply = f\"Reflective reply: {prompt}\"\n    return jsonify({\"response\": reply})\nif __name__ == \"__main__\":\n    app.run(port=11434)",
+        "detail": "Operator_Reflex_Capsule_X",
+        "documentation": {}
+    },
+    {
+        "label": "reflect",
+        "kind": 2,
+        "importPath": "Operator_Reflex_Capsule_X",
+        "description": "Operator_Reflex_Capsule_X",
+        "peekOfCode": "def reflect(prompt):\n    url = \"http://localhost:11434/gpt\"\n    response = requests.post(url, json={\"prompt\": prompt})\n    return response.json().get(\"response\", \"\")\nif __name__ == \"__main__\":\n    while True:\n        try:\n            msg = input(\"🧠 Reflect on: \")\n            print(\"→\", reflect(msg))\n        except KeyboardInterrupt:",
+        "detail": "Operator_Reflex_Capsule_X",
+        "documentation": {}
+    },
+    {
+        "label": "capsule_dir",
+        "kind": 5,
+        "importPath": "Operator_Reflex_Capsule_X",
+        "description": "Operator_Reflex_Capsule_X",
+        "peekOfCode": "capsule_dir = \"/mnt/data/Operator_Reflex_Capsule_X\"\nos.makedirs(capsule_dir, exist_ok=True)\n# === 1. flask_gpt_sync.py ===\nflask_gpt_sync = \"\"\"\nfrom flask import Flask, request, jsonify\nfrom flask_cors import CORS\nimport openai\napp = Flask(__name__)\nCORS(app)\n@app.route(\"/gpt\", methods=[\"POST\"])",
+        "detail": "Operator_Reflex_Capsule_X",
+        "documentation": {}
+    },
+    {
+        "label": "flask_gpt_sync",
+        "kind": 5,
+        "importPath": "Operator_Reflex_Capsule_X",
+        "description": "Operator_Reflex_Capsule_X",
+        "peekOfCode": "flask_gpt_sync = \"\"\"\nfrom flask import Flask, request, jsonify\nfrom flask_cors import CORS\nimport openai\napp = Flask(__name__)\nCORS(app)\n@app.route(\"/gpt\", methods=[\"POST\"])\ndef gpt():\n    data = request.json\n    prompt = data.get(\"prompt\", \"\")",
+        "detail": "Operator_Reflex_Capsule_X",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "Operator_Reflex_Capsule_X",
+        "description": "Operator_Reflex_Capsule_X",
+        "peekOfCode": "app = Flask(__name__)\nCORS(app)\n@app.route(\"/gpt\", methods=[\"POST\"])\ndef gpt():\n    data = request.json\n    prompt = data.get(\"prompt\", \"\")\n    if not prompt:\n        return jsonify({\"error\": \"No prompt provided\"}), 400\n    # Simulated GPT response — plug in real OpenAI call here\n    reply = f\"Reflective reply: {prompt}\"",
+        "detail": "Operator_Reflex_Capsule_X",
+        "documentation": {}
+    },
+    {
+        "label": "aura_persona",
+        "kind": 5,
+        "importPath": "Operator_Reflex_Capsule_X",
+        "description": "Operator_Reflex_Capsule_X",
+        "peekOfCode": "aura_persona = {\n    \"name\": \"Agent 0\",\n    \"tone\": \"reflective\",\n    \"mood_state\": \"neutral\",\n    \"drift_bias\": 0.15,\n    \"context\": \"browser edge reflex capsule\"\n}\n# === 3. boss_relay.py ===\nboss_relay = \"\"\"\nimport asyncio",
+        "detail": "Operator_Reflex_Capsule_X",
+        "documentation": {}
+    },
+    {
+        "label": "boss_relay",
+        "kind": 5,
+        "importPath": "Operator_Reflex_Capsule_X",
+        "description": "Operator_Reflex_Capsule_X",
+        "peekOfCode": "boss_relay = \"\"\"\nimport asyncio\nimport websockets\nimport json\nclients = set()\nasync def handler(websocket):\n    clients.add(websocket)\n    try:\n        async for msg in websocket:\n            data = json.loads(msg)",
+        "detail": "Operator_Reflex_Capsule_X",
+        "documentation": {}
+    },
+    {
+        "label": "clients",
+        "kind": 5,
+        "importPath": "Operator_Reflex_Capsule_X",
+        "description": "Operator_Reflex_Capsule_X",
+        "peekOfCode": "clients = set()\nasync def handler(websocket):\n    clients.add(websocket)\n    try:\n        async for msg in websocket:\n            data = json.loads(msg)\n            print(\"🔁 Relaying:\", data)\n            for client in clients:\n                if client != websocket:\n                    await client.send(json.dumps(data))",
+        "detail": "Operator_Reflex_Capsule_X",
+        "documentation": {}
+    },
+    {
+        "label": "gpt_reflector",
+        "kind": 5,
+        "importPath": "Operator_Reflex_Capsule_X",
+        "description": "Operator_Reflex_Capsule_X",
+        "peekOfCode": "gpt_reflector = \"\"\"\nimport requests\nimport json\ndef reflect(prompt):\n    url = \"http://localhost:11434/gpt\"\n    response = requests.post(url, json={\"prompt\": prompt})\n    return response.json().get(\"response\", \"\")\nif __name__ == \"__main__\":\n    while True:\n        try:",
+        "detail": "Operator_Reflex_Capsule_X",
+        "documentation": {}
+    },
+    {
+        "label": "paths",
+        "kind": 5,
+        "importPath": "Operator_Reflex_Capsule_X",
+        "description": "Operator_Reflex_Capsule_X",
+        "peekOfCode": "paths = {\n    \"flask_gpt_sync.py\": flask_gpt_sync,\n    \"boss_relay.py\": boss_relay,\n    \"gpt_reflector.py\": gpt_reflector\n}\nfor filename, content in paths.items():\n    with open(os.path.join(capsule_dir, filename), \"w\") as f:\n        f.write(content.strip())\n# Write aura-persona.json\nwith open(os.path.join(capsule_dir, \"aura-persona.json\"), \"w\") as f:",
+        "detail": "Operator_Reflex_Capsule_X",
+        "documentation": {}
+    },
+    {
+        "label": "enhanced_capsule_path",
+        "kind": 5,
+        "importPath": "Operator_Reflex_Capsule_X",
+        "description": "Operator_Reflex_Capsule_X",
+        "peekOfCode": "enhanced_capsule_path = \"/mnt/data/Operator_Reflex_Capsule_X_Enhanced.camp\"\nwith ZipFile(enhanced_capsule_path, \"w\") as zipf:\n    for root, _, files in os.walk(capsule_dir):\n        for file in files:\n            full_path = os.path.join(root, file)\n            arcname = os.path.relpath(full_path, start=capsule_dir)\n            zipf.write(full_path, arcname=arcname)\nprint(enhanced_capsule_path)",
+        "detail": "Operator_Reflex_Capsule_X",
+        "documentation": {}
+    },
+    {
+        "label": "RepairHandler",
+        "kind": 6,
+        "importPath": "operator_repair_node",
+        "description": "operator_repair_node",
+        "peekOfCode": "class RepairHandler(FileSystemEventHandler):\n    def on_created(self, event):\n        if not event.is_directory and event.src_path.endswith(\".zip\"):\n            handle_zip(event.src_path)\n    def on_modified(self, event):\n        if not event.is_directory:\n            print(f\"[WATCH] File changed: {event.src_path}\")\n            repair_folder(os.path.dirname(event.src_path))\n# === Monitor + Socket Server ===\ndef start_watcher():",
+        "detail": "operator_repair_node",
+        "documentation": {}
+    },
+    {
+        "label": "connect",
+        "kind": 2,
+        "importPath": "operator_repair_node",
+        "description": "operator_repair_node",
+        "peekOfCode": "def connect(sid, environ):\n    print(f\"[AI Connected] {sid}\")\n@sio.event\ndef repair_request(sid, data):\n    folder = data.get(\"folder\")\n    if folder:\n        repaired = repair_folder(folder)\n        sio.emit(\"repair_result\", {\"folder\": folder, \"status\": repaired}, to=sid)\n# === Repair Logic ===\ndef repair_folder(folder_path):",
+        "detail": "operator_repair_node",
+        "documentation": {}
+    },
+    {
+        "label": "repair_request",
+        "kind": 2,
+        "importPath": "operator_repair_node",
+        "description": "operator_repair_node",
+        "peekOfCode": "def repair_request(sid, data):\n    folder = data.get(\"folder\")\n    if folder:\n        repaired = repair_folder(folder)\n        sio.emit(\"repair_result\", {\"folder\": folder, \"status\": repaired}, to=sid)\n# === Repair Logic ===\ndef repair_folder(folder_path):\n    now = datetime.now().strftime(\"%Y%m%d-%H%M%S\")\n    backup_name = f\"{Path(folder_path).name}_{now}\"\n    backup_path = os.path.join(REPAIR_BACKUP, backup_name + \".zip\")",
+        "detail": "operator_repair_node",
+        "documentation": {}
+    },
+    {
+        "label": "repair_folder",
+        "kind": 2,
+        "importPath": "operator_repair_node",
+        "description": "operator_repair_node",
+        "peekOfCode": "def repair_folder(folder_path):\n    now = datetime.now().strftime(\"%Y%m%d-%H%M%S\")\n    backup_name = f\"{Path(folder_path).name}_{now}\"\n    backup_path = os.path.join(REPAIR_BACKUP, backup_name + \".zip\")\n    shutil.make_archive(backup_path.replace(\".zip\", \"\"), 'zip', folder_path)\n    repaired = False\n    for root, _, files in os.walk(folder_path):\n        for fname in files:\n            if fname.endswith((\".json\", \".py\")):\n                full_path = os.path.join(root, fname)",
+        "detail": "operator_repair_node",
+        "documentation": {}
+    },
+    {
+        "label": "handle_zip",
+        "kind": 2,
+        "importPath": "operator_repair_node",
+        "description": "operator_repair_node",
+        "peekOfCode": "def handle_zip(path):\n    zip_name = Path(path).stem\n    sandbox_path = os.path.join(SANDBOX_DIR, zip_name)\n    if not os.path.exists(sandbox_path):\n        os.makedirs(sandbox_path, exist_ok=True)\n        with zipfile.ZipFile(path, \"r\") as zip_ref:\n            zip_ref.extractall(sandbox_path)\n        inject_dev_env(sandbox_path)\n        print(f\"[SANDBOX] Created for {zip_name} at {sandbox_path}\")\ndef inject_dev_env(folder):",
+        "detail": "operator_repair_node",
+        "documentation": {}
+    },
+    {
+        "label": "inject_dev_env",
+        "kind": 2,
+        "importPath": "operator_repair_node",
+        "description": "operator_repair_node",
+        "peekOfCode": "def inject_dev_env(folder):\n    # Create dev environment support files\n    actions_dir = os.path.join(folder, \".github\", \"actions\")\n    os.makedirs(actions_dir, exist_ok=True)\n    with open(os.path.join(actions_dir, \"auto-run.yml\"), \"w\") as f:\n        f.write(\"name: Auto Run\\n\\non: [push]\\n\\njobs:\\n  build:\\n    runs-on: ubuntu-latest\\n    steps:\\n      - run: echo Auto run executed.\")\n    with open(os.path.join(folder, \"watchdog_monitor.py\"), \"w\") as f:\n        f.write(\"# Watchdog stub\")\n    with open(os.path.join(folder, \"socket_ai.py\"), \"w\") as f:\n        f.write(\"# Socket.IO AI bridge stub\")",
+        "detail": "operator_repair_node",
+        "documentation": {}
+    },
+    {
+        "label": "start_watcher",
+        "kind": 2,
+        "importPath": "operator_repair_node",
+        "description": "operator_repair_node",
+        "peekOfCode": "def start_watcher():\n    observer = Observer()\n    handler = RepairHandler()\n    observer.schedule(handler, BASE_DIR, recursive=True)\n    observer.start()\n    print(\"[Repair Node] Watcher running.\")\n    return observer\ndef start_socket_server():\n    from wsgiref import simple_server\n    print(f\"[Repair Node] Socket.IO server on port {SOCKET_PORT}\")",
+        "detail": "operator_repair_node",
+        "documentation": {}
+    },
+    {
+        "label": "start_socket_server",
+        "kind": 2,
+        "importPath": "operator_repair_node",
+        "description": "operator_repair_node",
+        "peekOfCode": "def start_socket_server():\n    from wsgiref import simple_server\n    print(f\"[Repair Node] Socket.IO server on port {SOCKET_PORT}\")\n    server = simple_server.make_server('', SOCKET_PORT, app)\n    server.serve_forever()\nif __name__ == \"__main__\":\n    from threading import Thread\n    print(\"[Repair Node] Starting Operator Reflex Repair Node...\")\n    Thread(target=start_socket_server, daemon=True).start()\n    obs = start_watcher()",
+        "detail": "operator_repair_node",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "operator_repair_node",
+        "description": "operator_repair_node",
+        "peekOfCode": "BASE_DIR = \"/mnt/data\"\nREPAIR_LOG = os.path.join(BASE_DIR, \"operator_repair_node.log\")\nSOCKET_PORT = 5050\nREPAIR_BACKUP = os.path.join(BASE_DIR, \"repair_backups\")\nSANDBOX_DIR = os.path.join(BASE_DIR, \"sandboxed_capsules\")\nos.makedirs(REPAIR_BACKUP, exist_ok=True)\nos.makedirs(SANDBOX_DIR, exist_ok=True)\n# === Socket.IO Server ===\nsio = socketio.Server(async_mode=\"threading\")\napp = socketio.WSGIApp(sio)",
+        "detail": "operator_repair_node",
+        "documentation": {}
+    },
+    {
+        "label": "REPAIR_LOG",
+        "kind": 5,
+        "importPath": "operator_repair_node",
+        "description": "operator_repair_node",
+        "peekOfCode": "REPAIR_LOG = os.path.join(BASE_DIR, \"operator_repair_node.log\")\nSOCKET_PORT = 5050\nREPAIR_BACKUP = os.path.join(BASE_DIR, \"repair_backups\")\nSANDBOX_DIR = os.path.join(BASE_DIR, \"sandboxed_capsules\")\nos.makedirs(REPAIR_BACKUP, exist_ok=True)\nos.makedirs(SANDBOX_DIR, exist_ok=True)\n# === Socket.IO Server ===\nsio = socketio.Server(async_mode=\"threading\")\napp = socketio.WSGIApp(sio)\n@sio.event",
+        "detail": "operator_repair_node",
+        "documentation": {}
+    },
+    {
+        "label": "SOCKET_PORT",
+        "kind": 5,
+        "importPath": "operator_repair_node",
+        "description": "operator_repair_node",
+        "peekOfCode": "SOCKET_PORT = 5050\nREPAIR_BACKUP = os.path.join(BASE_DIR, \"repair_backups\")\nSANDBOX_DIR = os.path.join(BASE_DIR, \"sandboxed_capsules\")\nos.makedirs(REPAIR_BACKUP, exist_ok=True)\nos.makedirs(SANDBOX_DIR, exist_ok=True)\n# === Socket.IO Server ===\nsio = socketio.Server(async_mode=\"threading\")\napp = socketio.WSGIApp(sio)\n@sio.event\ndef connect(sid, environ):",
+        "detail": "operator_repair_node",
+        "documentation": {}
+    },
+    {
+        "label": "REPAIR_BACKUP",
+        "kind": 5,
+        "importPath": "operator_repair_node",
+        "description": "operator_repair_node",
+        "peekOfCode": "REPAIR_BACKUP = os.path.join(BASE_DIR, \"repair_backups\")\nSANDBOX_DIR = os.path.join(BASE_DIR, \"sandboxed_capsules\")\nos.makedirs(REPAIR_BACKUP, exist_ok=True)\nos.makedirs(SANDBOX_DIR, exist_ok=True)\n# === Socket.IO Server ===\nsio = socketio.Server(async_mode=\"threading\")\napp = socketio.WSGIApp(sio)\n@sio.event\ndef connect(sid, environ):\n    print(f\"[AI Connected] {sid}\")",
+        "detail": "operator_repair_node",
+        "documentation": {}
+    },
+    {
+        "label": "SANDBOX_DIR",
+        "kind": 5,
+        "importPath": "operator_repair_node",
+        "description": "operator_repair_node",
+        "peekOfCode": "SANDBOX_DIR = os.path.join(BASE_DIR, \"sandboxed_capsules\")\nos.makedirs(REPAIR_BACKUP, exist_ok=True)\nos.makedirs(SANDBOX_DIR, exist_ok=True)\n# === Socket.IO Server ===\nsio = socketio.Server(async_mode=\"threading\")\napp = socketio.WSGIApp(sio)\n@sio.event\ndef connect(sid, environ):\n    print(f\"[AI Connected] {sid}\")\n@sio.event",
+        "detail": "operator_repair_node",
+        "documentation": {}
+    },
+    {
+        "label": "sio",
+        "kind": 5,
+        "importPath": "operator_repair_node",
+        "description": "operator_repair_node",
+        "peekOfCode": "sio = socketio.Server(async_mode=\"threading\")\napp = socketio.WSGIApp(sio)\n@sio.event\ndef connect(sid, environ):\n    print(f\"[AI Connected] {sid}\")\n@sio.event\ndef repair_request(sid, data):\n    folder = data.get(\"folder\")\n    if folder:\n        repaired = repair_folder(folder)",
+        "detail": "operator_repair_node",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "operator_repair_node",
+        "description": "operator_repair_node",
+        "peekOfCode": "app = socketio.WSGIApp(sio)\n@sio.event\ndef connect(sid, environ):\n    print(f\"[AI Connected] {sid}\")\n@sio.event\ndef repair_request(sid, data):\n    folder = data.get(\"folder\")\n    if folder:\n        repaired = repair_folder(folder)\n        sio.emit(\"repair_result\", {\"folder\": folder, \"status\": repaired}, to=sid)",
+        "detail": "operator_repair_node",
+        "documentation": {}
+    },
+    {
+        "label": "working_dir",
+        "kind": 5,
+        "importPath": "opex_out",
+        "description": "opex_out",
+        "peekOfCode": "working_dir = \"/mnt/data/operator_mesh_extension_output\"\nos.makedirs(working_dir, exist_ok=True)\n# Core file list to include in the ZIP\nfiles_to_include = {\n    \"browser_reflex.js\": \"Hook browser state into reflex_socket\",\n    \"camp_route.js\": \"Enable .camp drag-drop interpretation\",\n    \"agent_console.html\": \"Agent 0 control panel\",\n    \"manifest.json\": \"Patched with reflex domains and QR metadata\"\n}\n# Simulate content and create files (in real use, these would be actual contents)",
+        "detail": "opex_out",
+        "documentation": {}
+    },
+    {
+        "label": "files_to_include",
+        "kind": 5,
+        "importPath": "opex_out",
+        "description": "opex_out",
+        "peekOfCode": "files_to_include = {\n    \"browser_reflex.js\": \"Hook browser state into reflex_socket\",\n    \"camp_route.js\": \"Enable .camp drag-drop interpretation\",\n    \"agent_console.html\": \"Agent 0 control panel\",\n    \"manifest.json\": \"Patched with reflex domains and QR metadata\"\n}\n# Simulate content and create files (in real use, these would be actual contents)\nfor filename, content in files_to_include.items():\n    with open(os.path.join(working_dir, filename), \"w\") as f:\n        f.write(f\"// {content}\\n\")",
+        "detail": "opex_out",
+        "documentation": {}
+    },
+    {
+        "label": "qr_data",
+        "kind": 5,
+        "importPath": "opex_out",
+        "description": "opex_out",
+        "peekOfCode": "qr_data = {\n    \"invoke\": \"Operator_Mesh_Extension_Kit\",\n    \"reflex\": \"browser_socket_bridge\",\n    \"camp\": \"enabled\",\n    \"entry\": \"agent_console.html\",\n    \"meta\": \"QR sideload ritual\"\n}\nqr_img_path = os.path.join(working_dir, \"operator_mesh_qr.png\")\nqrcode.make(str(qr_data)).save(qr_img_path)\n# Create a final zip with all components",
+        "detail": "opex_out",
+        "documentation": {}
+    },
+    {
+        "label": "qr_img_path",
+        "kind": 5,
+        "importPath": "opex_out",
+        "description": "opex_out",
+        "peekOfCode": "qr_img_path = os.path.join(working_dir, \"operator_mesh_qr.png\")\nqrcode.make(str(qr_data)).save(qr_img_path)\n# Create a final zip with all components\nzip_path = \"/mnt/data/Operator_Mesh_Extension_Kit_QR_Infused.zip\"\nwith zipfile.ZipFile(zip_path, \"w\") as zipf:\n    for filename in files_to_include.keys():\n        zipf.write(os.path.join(working_dir, filename), arcname=filename)\n    zipf.write(qr_img_path, arcname=\"operator_mesh_qr.png\")\nprint(zip_path)",
+        "detail": "opex_out",
+        "documentation": {}
+    },
+    {
+        "label": "zip_path",
+        "kind": 5,
+        "importPath": "opex_out",
+        "description": "opex_out",
+        "peekOfCode": "zip_path = \"/mnt/data/Operator_Mesh_Extension_Kit_QR_Infused.zip\"\nwith zipfile.ZipFile(zip_path, \"w\") as zipf:\n    for filename in files_to_include.keys():\n        zipf.write(os.path.join(working_dir, filename), arcname=filename)\n    zipf.write(qr_img_path, arcname=\"operator_mesh_qr.png\")\nprint(zip_path)",
+        "detail": "opex_out",
+        "documentation": {}
+    },
+    {
+        "label": "ritual_dir",
+        "kind": 5,
+        "importPath": "reflex_socket",
+        "description": "reflex_socket",
+        "peekOfCode": "ritual_dir = \"/mnt/data/mesh_trigger_ritual\"\nos.makedirs(ritual_dir, exist_ok=True)\n# === 1. trigger_rules.yaml ===\ntrigger_rules = {\n    \"rules\": [\n        {\n            \"site\": \"linkedin.com\",\n            \"selector\": \".top-card-layout__title\",\n            \"prompt\": \"Summarize this LinkedIn profile.\"\n        },",
+        "detail": "reflex_socket",
+        "documentation": {}
+    },
+    {
+        "label": "trigger_rules",
+        "kind": 5,
+        "importPath": "reflex_socket",
+        "description": "reflex_socket",
+        "peekOfCode": "trigger_rules = {\n    \"rules\": [\n        {\n            \"site\": \"linkedin.com\",\n            \"selector\": \".top-card-layout__title\",\n            \"prompt\": \"Summarize this LinkedIn profile.\"\n        },\n        {\n            \"site\": \"github.com\",\n            \"selector\": \"article.markdown-body\",",
+        "detail": "reflex_socket",
+        "documentation": {}
+    },
+    {
+        "label": "reflex_overlay_js",
+        "kind": 5,
+        "importPath": "reflex_socket",
+        "description": "reflex_socket",
+        "peekOfCode": "reflex_overlay_js = \"\"\"\nlet socket = new WebSocket(\"ws://localhost:8765\");\nlet memory = [];\nlet whisperState = \"auto\"; // Modes: auto, silent, mirror\nconst rules = [\n  {\n    site: \"linkedin.com\",\n    selector: \".top-card-layout__title\",\n    prompt: \"Summarize this LinkedIn profile.\"\n  },",
+        "detail": "reflex_socket",
+        "documentation": {}
+    },
+    {
+        "label": "socket.onmessage",
+        "kind": 5,
+        "importPath": "reflex_socket",
+        "description": "reflex_socket",
+        "peekOfCode": "socket.onmessage = (event) => {\n  const data = JSON.parse(event.data);\n  log(\"🛰 \" + data.reply);\n  memory.push({ role: \"agent\", message: data.reply });\n};\nwindow.addEventListener(\"DOMContentLoaded\", () => {\n  setupEchoPanel();\n  setInterval(() => { if (whisperState === \"auto\") runTriggers(); }, 10000);\n});\n\"\"\"",
+        "detail": "reflex_socket",
+        "documentation": {}
+    },
+    {
+        "label": "ritual_zip_path",
+        "kind": 5,
+        "importPath": "reflex_socket",
+        "description": "reflex_socket",
+        "peekOfCode": "ritual_zip_path = \"/mnt/data/Mesh_Trigger_Ritual_Bundle.zip\"\nwith ZipFile(ritual_zip_path, \"w\") as zipf:\n    zipf.write(os.path.join(ritual_dir, \"trigger_rules.yaml\"), arcname=\"trigger_rules.yaml\")\n    zipf.write(os.path.join(ritual_dir, \"reflex_overlay.js\"), arcname=\"reflex_overlay.js\")\nprint(ritual_zip_path)",
+        "detail": "reflex_socket",
+        "documentation": {}
+    }
+]
