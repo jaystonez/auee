@@ -30,3 +30,6 @@ Key Python dependencies listed in `requirements.txt` include:
 - qrcode
 - pillow
 - python-dotenv
+
+## Repository integrity check
+Run `python check_repo_integrity.py` to list any empty files or duplicates. This helps verify that each item in the repository has meaningful content.
