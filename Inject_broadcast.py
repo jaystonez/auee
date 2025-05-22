@@ -1,5 +1,10 @@
 # Inject broadcast, update, and reflect scripts into the capsule bundle
 import os
+import socket
+import time
+import subprocess
+import datetime
+import zipfile
 
 inject_dir = "/mnt/data/light3_latest_check"  # assume this is the working unzipped dir
 
